@@ -2,4 +2,4 @@ track TestTrack
 bigDataUrl testTrack.bb
 shortLabel Test Track
 longLabel Track of Test
-type bigBed 6
+type bigBed
