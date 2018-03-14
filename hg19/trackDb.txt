@@ -3,3 +3,4 @@ bigDataUrl testTrack.bb
 shortLabel Test Track
 longLabel Track of Test
 type bigBed 5
+spectrum on
