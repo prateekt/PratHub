@@ -1,6 +1,491 @@
-track TestTrack
-bigDataUrl testTrack.bb
-shortLabel Test Track
-longLabel Track of Test
+track prom_anatomy-ESC_DERIVED
+bigDataUrl hg19/prom_anatomy/ESC_DERIVED.bb
+shortLabel prom_anatomy-ESC_DERIVED
+longLabel prom_anatomy-ESC_DERIVED
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-BREAST
+bigDataUrl hg19/prom_anatomy/BREAST.bb
+shortLabel prom_anatomy-BREAST
+longLabel prom_anatomy-BREAST
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-STROMAL_CONNECTIVE
+bigDataUrl hg19/prom_anatomy/STROMAL_CONNECTIVE.bb
+shortLabel prom_anatomy-STROMAL_CONNECTIVE
+longLabel prom_anatomy-STROMAL_CONNECTIVE
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-PLACENTA
+bigDataUrl hg19/prom_anatomy/PLACENTA.bb
+shortLabel prom_anatomy-PLACENTA
+longLabel prom_anatomy-PLACENTA
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-IPSC
+bigDataUrl hg19/prom_anatomy/IPSC.bb
+shortLabel prom_anatomy-IPSC
+longLabel prom_anatomy-IPSC
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-BRAIN
+bigDataUrl hg19/prom_anatomy/BRAIN.bb
+shortLabel prom_anatomy-BRAIN
+longLabel prom_anatomy-BRAIN
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-MUSCLE
+bigDataUrl hg19/prom_anatomy/MUSCLE.bb
+shortLabel prom_anatomy-MUSCLE
+longLabel prom_anatomy-MUSCLE
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-VASCULAR
+bigDataUrl hg19/prom_anatomy/VASCULAR.bb
+shortLabel prom_anatomy-VASCULAR
+longLabel prom_anatomy-VASCULAR
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-BONE
+bigDataUrl hg19/prom_anatomy/BONE.bb
+shortLabel prom_anatomy-BONE
+longLabel prom_anatomy-BONE
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-FAT
+bigDataUrl hg19/prom_anatomy/FAT.bb
+shortLabel prom_anatomy-FAT
+longLabel prom_anatomy-FAT
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-LIVER
+bigDataUrl hg19/prom_anatomy/LIVER.bb
+shortLabel prom_anatomy-LIVER
+longLabel prom_anatomy-LIVER
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-THYMUS
+bigDataUrl hg19/prom_anatomy/THYMUS.bb
+shortLabel prom_anatomy-THYMUS
+longLabel prom_anatomy-THYMUS
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-HEART
+bigDataUrl hg19/prom_anatomy/HEART.bb
+shortLabel prom_anatomy-HEART
+longLabel prom_anatomy-HEART
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-PANCREAS
+bigDataUrl hg19/prom_anatomy/PANCREAS.bb
+shortLabel prom_anatomy-PANCREAS
+longLabel prom_anatomy-PANCREAS
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-LUNG
+bigDataUrl hg19/prom_anatomy/LUNG.bb
+shortLabel prom_anatomy-LUNG
+longLabel prom_anatomy-LUNG
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-KIDNEY
+bigDataUrl hg19/prom_anatomy/KIDNEY.bb
+shortLabel prom_anatomy-KIDNEY
+longLabel prom_anatomy-KIDNEY
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-MASTER
+bigDataUrl hg19/prom_anatomy/MASTER.bb
+shortLabel prom_anatomy-MASTER
+longLabel prom_anatomy-MASTER
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-MUSCLE_LEG
+bigDataUrl hg19/prom_anatomy/MUSCLE_LEG.bb
+shortLabel prom_anatomy-MUSCLE_LEG
+longLabel prom_anatomy-MUSCLE_LEG
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-GI_RECTUM
+bigDataUrl hg19/prom_anatomy/GI_RECTUM.bb
+shortLabel prom_anatomy-GI_RECTUM
+longLabel prom_anatomy-GI_RECTUM
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-GI_STOMACH
+bigDataUrl hg19/prom_anatomy/GI_STOMACH.bb
+shortLabel prom_anatomy-GI_STOMACH
+longLabel prom_anatomy-GI_STOMACH
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-CERVIX
+bigDataUrl hg19/prom_anatomy/CERVIX.bb
+shortLabel prom_anatomy-CERVIX
+longLabel prom_anatomy-CERVIX
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-GI_DUODENUM
+bigDataUrl hg19/prom_anatomy/GI_DUODENUM.bb
+shortLabel prom_anatomy-GI_DUODENUM
+longLabel prom_anatomy-GI_DUODENUM
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-ADRENAL
+bigDataUrl hg19/prom_anatomy/ADRENAL.bb
+shortLabel prom_anatomy-ADRENAL
+longLabel prom_anatomy-ADRENAL
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-GI_COLON
+bigDataUrl hg19/prom_anatomy/GI_COLON.bb
+shortLabel prom_anatomy-GI_COLON
+longLabel prom_anatomy-GI_COLON
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-SPLEEN
+bigDataUrl hg19/prom_anatomy/SPLEEN.bb
+shortLabel prom_anatomy-SPLEEN
+longLabel prom_anatomy-SPLEEN
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-GI_INTESTINE
+bigDataUrl hg19/prom_anatomy/GI_INTESTINE.bb
+shortLabel prom_anatomy-GI_INTESTINE
+longLabel prom_anatomy-GI_INTESTINE
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-SKIN
+bigDataUrl hg19/prom_anatomy/SKIN.bb
+shortLabel prom_anatomy-SKIN
+longLabel prom_anatomy-SKIN
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-GI_ESOPHAGUS
+bigDataUrl hg19/prom_anatomy/GI_ESOPHAGUS.bb
+shortLabel prom_anatomy-GI_ESOPHAGUS
+longLabel prom_anatomy-GI_ESOPHAGUS
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-OVARY
+bigDataUrl hg19/prom_anatomy/OVARY.bb
+shortLabel prom_anatomy-OVARY
+longLabel prom_anatomy-OVARY
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-BLOOD
+bigDataUrl hg19/prom_anatomy/BLOOD.bb
+shortLabel prom_anatomy-BLOOD
+longLabel prom_anatomy-BLOOD
+type bigBed 5
+spectrum on
+
+
+track prom_anatomy-ESC
+bigDataUrl hg19/prom_anatomy/ESC.bb
+shortLabel prom_anatomy-ESC
+longLabel prom_anatomy-ESC
+type bigBed 5
+spectrum ontrack enh_anatomy-ESC_DERIVED
+bigDataUrl hg19/enh_anatomy/ESC_DERIVED.bb
+shortLabel enh_anatomy-ESC_DERIVED
+longLabel enh_anatomy-ESC_DERIVED
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-BREAST
+bigDataUrl hg19/enh_anatomy/BREAST.bb
+shortLabel enh_anatomy-BREAST
+longLabel enh_anatomy-BREAST
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-STROMAL_CONNECTIVE
+bigDataUrl hg19/enh_anatomy/STROMAL_CONNECTIVE.bb
+shortLabel enh_anatomy-STROMAL_CONNECTIVE
+longLabel enh_anatomy-STROMAL_CONNECTIVE
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-PLACENTA
+bigDataUrl hg19/enh_anatomy/PLACENTA.bb
+shortLabel enh_anatomy-PLACENTA
+longLabel enh_anatomy-PLACENTA
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-IPSC
+bigDataUrl hg19/enh_anatomy/IPSC.bb
+shortLabel enh_anatomy-IPSC
+longLabel enh_anatomy-IPSC
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-BRAIN
+bigDataUrl hg19/enh_anatomy/BRAIN.bb
+shortLabel enh_anatomy-BRAIN
+longLabel enh_anatomy-BRAIN
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-MUSCLE
+bigDataUrl hg19/enh_anatomy/MUSCLE.bb
+shortLabel enh_anatomy-MUSCLE
+longLabel enh_anatomy-MUSCLE
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-VASCULAR
+bigDataUrl hg19/enh_anatomy/VASCULAR.bb
+shortLabel enh_anatomy-VASCULAR
+longLabel enh_anatomy-VASCULAR
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-BONE
+bigDataUrl hg19/enh_anatomy/BONE.bb
+shortLabel enh_anatomy-BONE
+longLabel enh_anatomy-BONE
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-FAT
+bigDataUrl hg19/enh_anatomy/FAT.bb
+shortLabel enh_anatomy-FAT
+longLabel enh_anatomy-FAT
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-LIVER
+bigDataUrl hg19/enh_anatomy/LIVER.bb
+shortLabel enh_anatomy-LIVER
+longLabel enh_anatomy-LIVER
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-THYMUS
+bigDataUrl hg19/enh_anatomy/THYMUS.bb
+shortLabel enh_anatomy-THYMUS
+longLabel enh_anatomy-THYMUS
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-HEART
+bigDataUrl hg19/enh_anatomy/HEART.bb
+shortLabel enh_anatomy-HEART
+longLabel enh_anatomy-HEART
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-PANCREAS
+bigDataUrl hg19/enh_anatomy/PANCREAS.bb
+shortLabel enh_anatomy-PANCREAS
+longLabel enh_anatomy-PANCREAS
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-LUNG
+bigDataUrl hg19/enh_anatomy/LUNG.bb
+shortLabel enh_anatomy-LUNG
+longLabel enh_anatomy-LUNG
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-KIDNEY
+bigDataUrl hg19/enh_anatomy/KIDNEY.bb
+shortLabel enh_anatomy-KIDNEY
+longLabel enh_anatomy-KIDNEY
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-MASTER
+bigDataUrl hg19/enh_anatomy/MASTER.bb
+shortLabel enh_anatomy-MASTER
+longLabel enh_anatomy-MASTER
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-MUSCLE_LEG
+bigDataUrl hg19/enh_anatomy/MUSCLE_LEG.bb
+shortLabel enh_anatomy-MUSCLE_LEG
+longLabel enh_anatomy-MUSCLE_LEG
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-GI_RECTUM
+bigDataUrl hg19/enh_anatomy/GI_RECTUM.bb
+shortLabel enh_anatomy-GI_RECTUM
+longLabel enh_anatomy-GI_RECTUM
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-GI_STOMACH
+bigDataUrl hg19/enh_anatomy/GI_STOMACH.bb
+shortLabel enh_anatomy-GI_STOMACH
+longLabel enh_anatomy-GI_STOMACH
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-CERVIX
+bigDataUrl hg19/enh_anatomy/CERVIX.bb
+shortLabel enh_anatomy-CERVIX
+longLabel enh_anatomy-CERVIX
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-GI_DUODENUM
+bigDataUrl hg19/enh_anatomy/GI_DUODENUM.bb
+shortLabel enh_anatomy-GI_DUODENUM
+longLabel enh_anatomy-GI_DUODENUM
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-ADRENAL
+bigDataUrl hg19/enh_anatomy/ADRENAL.bb
+shortLabel enh_anatomy-ADRENAL
+longLabel enh_anatomy-ADRENAL
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-GI_COLON
+bigDataUrl hg19/enh_anatomy/GI_COLON.bb
+shortLabel enh_anatomy-GI_COLON
+longLabel enh_anatomy-GI_COLON
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-SPLEEN
+bigDataUrl hg19/enh_anatomy/SPLEEN.bb
+shortLabel enh_anatomy-SPLEEN
+longLabel enh_anatomy-SPLEEN
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-GI_INTESTINE
+bigDataUrl hg19/enh_anatomy/GI_INTESTINE.bb
+shortLabel enh_anatomy-GI_INTESTINE
+longLabel enh_anatomy-GI_INTESTINE
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-SKIN
+bigDataUrl hg19/enh_anatomy/SKIN.bb
+shortLabel enh_anatomy-SKIN
+longLabel enh_anatomy-SKIN
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-GI_ESOPHAGUS
+bigDataUrl hg19/enh_anatomy/GI_ESOPHAGUS.bb
+shortLabel enh_anatomy-GI_ESOPHAGUS
+longLabel enh_anatomy-GI_ESOPHAGUS
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-OVARY
+bigDataUrl hg19/enh_anatomy/OVARY.bb
+shortLabel enh_anatomy-OVARY
+longLabel enh_anatomy-OVARY
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-BLOOD
+bigDataUrl hg19/enh_anatomy/BLOOD.bb
+shortLabel enh_anatomy-BLOOD
+longLabel enh_anatomy-BLOOD
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-ESC
+bigDataUrl hg19/enh_anatomy/ESC.bb
+shortLabel enh_anatomy-ESC
+longLabel enh_anatomy-ESC
 type bigBed 5
 spectrum on
