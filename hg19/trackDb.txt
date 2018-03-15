@@ -1,3 +1,251 @@
+track enh_anatomy-ESC_DERIVED
+bigDataUrl enh_anatomy/ESC_DERIVED.bb
+shortLabel enh_anatomy-ESC_DERIVED
+longLabel enh_anatomy-ESC_DERIVED
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-BREAST
+bigDataUrl enh_anatomy/BREAST.bb
+shortLabel enh_anatomy-BREAST
+longLabel enh_anatomy-BREAST
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-STROMAL_CONNECTIVE
+bigDataUrl enh_anatomy/STROMAL_CONNECTIVE.bb
+shortLabel enh_anatomy-STROMAL_CONNECTIVE
+longLabel enh_anatomy-STROMAL_CONNECTIVE
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-PLACENTA
+bigDataUrl enh_anatomy/PLACENTA.bb
+shortLabel enh_anatomy-PLACENTA
+longLabel enh_anatomy-PLACENTA
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-IPSC
+bigDataUrl enh_anatomy/IPSC.bb
+shortLabel enh_anatomy-IPSC
+longLabel enh_anatomy-IPSC
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-BRAIN
+bigDataUrl enh_anatomy/BRAIN.bb
+shortLabel enh_anatomy-BRAIN
+longLabel enh_anatomy-BRAIN
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-MUSCLE
+bigDataUrl enh_anatomy/MUSCLE.bb
+shortLabel enh_anatomy-MUSCLE
+longLabel enh_anatomy-MUSCLE
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-VASCULAR
+bigDataUrl enh_anatomy/VASCULAR.bb
+shortLabel enh_anatomy-VASCULAR
+longLabel enh_anatomy-VASCULAR
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-BONE
+bigDataUrl enh_anatomy/BONE.bb
+shortLabel enh_anatomy-BONE
+longLabel enh_anatomy-BONE
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-FAT
+bigDataUrl enh_anatomy/FAT.bb
+shortLabel enh_anatomy-FAT
+longLabel enh_anatomy-FAT
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-LIVER
+bigDataUrl enh_anatomy/LIVER.bb
+shortLabel enh_anatomy-LIVER
+longLabel enh_anatomy-LIVER
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-THYMUS
+bigDataUrl enh_anatomy/THYMUS.bb
+shortLabel enh_anatomy-THYMUS
+longLabel enh_anatomy-THYMUS
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-HEART
+bigDataUrl enh_anatomy/HEART.bb
+shortLabel enh_anatomy-HEART
+longLabel enh_anatomy-HEART
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-PANCREAS
+bigDataUrl enh_anatomy/PANCREAS.bb
+shortLabel enh_anatomy-PANCREAS
+longLabel enh_anatomy-PANCREAS
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-LUNG
+bigDataUrl enh_anatomy/LUNG.bb
+shortLabel enh_anatomy-LUNG
+longLabel enh_anatomy-LUNG
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-KIDNEY
+bigDataUrl enh_anatomy/KIDNEY.bb
+shortLabel enh_anatomy-KIDNEY
+longLabel enh_anatomy-KIDNEY
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-MASTER
+bigDataUrl enh_anatomy/MASTER.bb
+shortLabel enh_anatomy-MASTER
+longLabel enh_anatomy-MASTER
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-MUSCLE_LEG
+bigDataUrl enh_anatomy/MUSCLE_LEG.bb
+shortLabel enh_anatomy-MUSCLE_LEG
+longLabel enh_anatomy-MUSCLE_LEG
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-GI_RECTUM
+bigDataUrl enh_anatomy/GI_RECTUM.bb
+shortLabel enh_anatomy-GI_RECTUM
+longLabel enh_anatomy-GI_RECTUM
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-GI_STOMACH
+bigDataUrl enh_anatomy/GI_STOMACH.bb
+shortLabel enh_anatomy-GI_STOMACH
+longLabel enh_anatomy-GI_STOMACH
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-CERVIX
+bigDataUrl enh_anatomy/CERVIX.bb
+shortLabel enh_anatomy-CERVIX
+longLabel enh_anatomy-CERVIX
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-GI_DUODENUM
+bigDataUrl enh_anatomy/GI_DUODENUM.bb
+shortLabel enh_anatomy-GI_DUODENUM
+longLabel enh_anatomy-GI_DUODENUM
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-ADRENAL
+bigDataUrl enh_anatomy/ADRENAL.bb
+shortLabel enh_anatomy-ADRENAL
+longLabel enh_anatomy-ADRENAL
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-GI_COLON
+bigDataUrl enh_anatomy/GI_COLON.bb
+shortLabel enh_anatomy-GI_COLON
+longLabel enh_anatomy-GI_COLON
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-SPLEEN
+bigDataUrl enh_anatomy/SPLEEN.bb
+shortLabel enh_anatomy-SPLEEN
+longLabel enh_anatomy-SPLEEN
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-GI_INTESTINE
+bigDataUrl enh_anatomy/GI_INTESTINE.bb
+shortLabel enh_anatomy-GI_INTESTINE
+longLabel enh_anatomy-GI_INTESTINE
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-SKIN
+bigDataUrl enh_anatomy/SKIN.bb
+shortLabel enh_anatomy-SKIN
+longLabel enh_anatomy-SKIN
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-GI_ESOPHAGUS
+bigDataUrl enh_anatomy/GI_ESOPHAGUS.bb
+shortLabel enh_anatomy-GI_ESOPHAGUS
+longLabel enh_anatomy-GI_ESOPHAGUS
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-OVARY
+bigDataUrl enh_anatomy/OVARY.bb
+shortLabel enh_anatomy-OVARY
+longLabel enh_anatomy-OVARY
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-BLOOD
+bigDataUrl enh_anatomy/BLOOD.bb
+shortLabel enh_anatomy-BLOOD
+longLabel enh_anatomy-BLOOD
+type bigBed 5
+spectrum on
+
+
+track enh_anatomy-ESC
+bigDataUrl enh_anatomy/ESC.bb
+shortLabel enh_anatomy-ESC
+longLabel enh_anatomy-ESC
+type bigBed 5
+spectrum on
+
+
 track prom_anatomy-ESC_DERIVED
 bigDataUrl prom_anatomy/ESC_DERIVED.bb
 shortLabel prom_anatomy-ESC_DERIVED
@@ -243,249 +491,20 @@ bigDataUrl prom_anatomy/ESC.bb
 shortLabel prom_anatomy-ESC
 longLabel prom_anatomy-ESC
 type bigBed 5
-spectrum ontrack enh_anatomy-ESC_DERIVED
-bigDataUrl enh_anatomy/ESC_DERIVED.bb
-shortLabel enh_anatomy-ESC_DERIVED
-longLabel enh_anatomy-ESC_DERIVED
+spectrum on
+
+
+track specialization_entropy_bb-prom_entropy
+bigDataUrl specialization_entropy_bb/prom_entropy.bb
+shortLabel specialization_entropy_bb-prom_entropy
+longLabel specialization_entropy_bb-prom_entropy
 type bigBed 5
 spectrum on
 
 
-track enh_anatomy-BREAST
-bigDataUrl enh_anatomy/BREAST.bb
-shortLabel enh_anatomy-BREAST
-longLabel enh_anatomy-BREAST
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-STROMAL_CONNECTIVE
-bigDataUrl enh_anatomy/STROMAL_CONNECTIVE.bb
-shortLabel enh_anatomy-STROMAL_CONNECTIVE
-longLabel enh_anatomy-STROMAL_CONNECTIVE
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-PLACENTA
-bigDataUrl enh_anatomy/PLACENTA.bb
-shortLabel enh_anatomy-PLACENTA
-longLabel enh_anatomy-PLACENTA
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-IPSC
-bigDataUrl enh_anatomy/IPSC.bb
-shortLabel enh_anatomy-IPSC
-longLabel enh_anatomy-IPSC
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-BRAIN
-bigDataUrl enh_anatomy/BRAIN.bb
-shortLabel enh_anatomy-BRAIN
-longLabel enh_anatomy-BRAIN
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-MUSCLE
-bigDataUrl enh_anatomy/MUSCLE.bb
-shortLabel enh_anatomy-MUSCLE
-longLabel enh_anatomy-MUSCLE
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-VASCULAR
-bigDataUrl enh_anatomy/VASCULAR.bb
-shortLabel enh_anatomy-VASCULAR
-longLabel enh_anatomy-VASCULAR
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-BONE
-bigDataUrl enh_anatomy/BONE.bb
-shortLabel enh_anatomy-BONE
-longLabel enh_anatomy-BONE
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-FAT
-bigDataUrl enh_anatomy/FAT.bb
-shortLabel enh_anatomy-FAT
-longLabel enh_anatomy-FAT
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-LIVER
-bigDataUrl enh_anatomy/LIVER.bb
-shortLabel enh_anatomy-LIVER
-longLabel enh_anatomy-LIVER
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-THYMUS
-bigDataUrl enh_anatomy/THYMUS.bb
-shortLabel enh_anatomy-THYMUS
-longLabel enh_anatomy-THYMUS
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-HEART
-bigDataUrl enh_anatomy/HEART.bb
-shortLabel enh_anatomy-HEART
-longLabel enh_anatomy-HEART
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-PANCREAS
-bigDataUrl enh_anatomy/PANCREAS.bb
-shortLabel enh_anatomy-PANCREAS
-longLabel enh_anatomy-PANCREAS
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-LUNG
-bigDataUrl enh_anatomy/LUNG.bb
-shortLabel enh_anatomy-LUNG
-longLabel enh_anatomy-LUNG
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-KIDNEY
-bigDataUrl enh_anatomy/KIDNEY.bb
-shortLabel enh_anatomy-KIDNEY
-longLabel enh_anatomy-KIDNEY
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-MASTER
-bigDataUrl enh_anatomy/MASTER.bb
-shortLabel enh_anatomy-MASTER
-longLabel enh_anatomy-MASTER
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-MUSCLE_LEG
-bigDataUrl enh_anatomy/MUSCLE_LEG.bb
-shortLabel enh_anatomy-MUSCLE_LEG
-longLabel enh_anatomy-MUSCLE_LEG
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-GI_RECTUM
-bigDataUrl enh_anatomy/GI_RECTUM.bb
-shortLabel enh_anatomy-GI_RECTUM
-longLabel enh_anatomy-GI_RECTUM
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-GI_STOMACH
-bigDataUrl enh_anatomy/GI_STOMACH.bb
-shortLabel enh_anatomy-GI_STOMACH
-longLabel enh_anatomy-GI_STOMACH
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-CERVIX
-bigDataUrl enh_anatomy/CERVIX.bb
-shortLabel enh_anatomy-CERVIX
-longLabel enh_anatomy-CERVIX
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-GI_DUODENUM
-bigDataUrl enh_anatomy/GI_DUODENUM.bb
-shortLabel enh_anatomy-GI_DUODENUM
-longLabel enh_anatomy-GI_DUODENUM
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-ADRENAL
-bigDataUrl enh_anatomy/ADRENAL.bb
-shortLabel enh_anatomy-ADRENAL
-longLabel enh_anatomy-ADRENAL
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-GI_COLON
-bigDataUrl enh_anatomy/GI_COLON.bb
-shortLabel enh_anatomy-GI_COLON
-longLabel enh_anatomy-GI_COLON
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-SPLEEN
-bigDataUrl enh_anatomy/SPLEEN.bb
-shortLabel enh_anatomy-SPLEEN
-longLabel enh_anatomy-SPLEEN
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-GI_INTESTINE
-bigDataUrl enh_anatomy/GI_INTESTINE.bb
-shortLabel enh_anatomy-GI_INTESTINE
-longLabel enh_anatomy-GI_INTESTINE
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-SKIN
-bigDataUrl enh_anatomy/SKIN.bb
-shortLabel enh_anatomy-SKIN
-longLabel enh_anatomy-SKIN
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-GI_ESOPHAGUS
-bigDataUrl enh_anatomy/GI_ESOPHAGUS.bb
-shortLabel enh_anatomy-GI_ESOPHAGUS
-longLabel enh_anatomy-GI_ESOPHAGUS
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-OVARY
-bigDataUrl enh_anatomy/OVARY.bb
-shortLabel enh_anatomy-OVARY
-longLabel enh_anatomy-OVARY
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-BLOOD
-bigDataUrl enh_anatomy/BLOOD.bb
-shortLabel enh_anatomy-BLOOD
-longLabel enh_anatomy-BLOOD
-type bigBed 5
-spectrum on
-
-
-track enh_anatomy-ESC
-bigDataUrl enh_anatomy/ESC.bb
-shortLabel enh_anatomy-ESC
-longLabel enh_anatomy-ESC
+track specialization_entropy_bb-enh_entropy
+bigDataUrl specialization_entropy_bb/enh_entropy.bb
+shortLabel specialization_entropy_bb-enh_entropy
+longLabel specialization_entropy_bb-enh_entropy
 type bigBed 5
 spectrum on
