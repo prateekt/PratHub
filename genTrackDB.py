@@ -7,12 +7,12 @@ def rootname(f):
 	return aParts[0]
 
 def makeTrackStr(f,tag):
-	str = (	
+	str = (
 		'track ' + tag + '\n'
 		'bigDataUrl ' + f + '\n'
 		'shortLabel ' + tag + '\n'
 		'longLabel '  +tag + '\n'
-		'type bigBed 5\n'
+		'type bigWig\n'
 		'spectrum on\n\n\n'
 	       )
 	return str
@@ -24,7 +24,7 @@ top_folders.sort()
 #folder iter
 fout = open('hg19/trackDb.txt','w')
 for f in top_folders:
-	files = [f + '/' + a for a in os.listdir('hg19/' + f) if ".bb" in a]
+	files = [f + '/' + a for a in os.listdir('hg19/' + f) if ".bigWig" in a]
 	for urlIndex in xrange(0,len(files)):
 		url = files[urlIndex]
 		command = makeTrackStr(url,f+'-'+rootname(url))
