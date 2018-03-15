@@ -23,7 +23,7 @@ top_folders = [a for a in os.listdir('hg19') if os.path.isdir('hg19/' + a)]
 #folder iter
 fout = open('hg19/trackDb.txt','w')
 for f in top_folders:
-	files = ['hg19/' + f + '/' + a for a in os.listdir('hg19/' + f) if ".bb" in a]
+	files = [f + '/' + a for a in os.listdir('hg19/' + f) if ".bb" in a]
 	for urlIndex in xrange(0,len(files)):
 		url = files[urlIndex]
 		command = makeTrackStr(url,f+'-'+rootname(url))
