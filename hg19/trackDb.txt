@@ -3,12 +3,11 @@ bigDataUrl enh_anatomy_bigWig/BRAIN.bigWig
 shortLabel enh_anatomy_bigWig-BRAIN
 longLabel enh_anatomy_bigWig-BRAIN
 type bigWig
-color 0,255,255
+color 139,69,19
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -18,12 +17,11 @@ bigDataUrl enh_anatomy_bigWig/BREAST.bigWig
 shortLabel enh_anatomy_bigWig-BREAST
 longLabel enh_anatomy_bigWig-BREAST
 type bigWig
-color 128,128,0
+color 139,69,19
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -33,12 +31,11 @@ bigDataUrl enh_anatomy_bigWig/PLACENTA.bigWig
 shortLabel enh_anatomy_bigWig-PLACENTA
 longLabel enh_anatomy_bigWig-PLACENTA
 type bigWig
-color 128,128,0
+color 255,0,255
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -48,12 +45,11 @@ bigDataUrl enh_anatomy_bigWig/VASCULAR.bigWig
 shortLabel enh_anatomy_bigWig-VASCULAR
 longLabel enh_anatomy_bigWig-VASCULAR
 type bigWig
-color 128,0,0
+color 189,183,107
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -63,12 +59,11 @@ bigDataUrl enh_anatomy_bigWig/MUSCLE_LEG.bigWig
 shortLabel enh_anatomy_bigWig-MUSCLE_LEG
 longLabel enh_anatomy_bigWig-MUSCLE_LEG
 type bigWig
-color 139,69,19
+color 189,183,107
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -78,12 +73,11 @@ bigDataUrl enh_anatomy_bigWig/GI_STOMACH.bigWig
 shortLabel enh_anatomy_bigWig-GI_STOMACH
 longLabel enh_anatomy_bigWig-GI_STOMACH
 type bigWig
-color 255,0,0
+color 255,140,0
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -93,12 +87,11 @@ bigDataUrl enh_anatomy_bigWig/OVARY.bigWig
 shortLabel enh_anatomy_bigWig-OVARY
 longLabel enh_anatomy_bigWig-OVARY
 type bigWig
-color 255,0,255
+color 128,128,0
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -108,12 +101,11 @@ bigDataUrl enh_anatomy_bigWig/KIDNEY.bigWig
 shortLabel enh_anatomy_bigWig-KIDNEY
 longLabel enh_anatomy_bigWig-KIDNEY
 type bigWig
-color 255,105,180
+color 0,255,0
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -123,12 +115,11 @@ bigDataUrl enh_anatomy_bigWig/HEART.bigWig
 shortLabel enh_anatomy_bigWig-HEART
 longLabel enh_anatomy_bigWig-HEART
 type bigWig
-color 0,0,255
+color 139,69,19
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -138,12 +129,11 @@ bigDataUrl enh_anatomy_bigWig/SPLEEN.bigWig
 shortLabel enh_anatomy_bigWig-SPLEEN
 longLabel enh_anatomy_bigWig-SPLEEN
 type bigWig
-color 255,228,225
+color 255,105,180
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -153,12 +143,11 @@ bigDataUrl enh_anatomy_bigWig/GI_DUODENUM.bigWig
 shortLabel enh_anatomy_bigWig-GI_DUODENUM
 longLabel enh_anatomy_bigWig-GI_DUODENUM
 type bigWig
-color 255,140,0
+color 0,0,128
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -168,12 +157,11 @@ bigDataUrl enh_anatomy_bigWig/BLOOD.bigWig
 shortLabel enh_anatomy_bigWig-BLOOD
 longLabel enh_anatomy_bigWig-BLOOD
 type bigWig
-color 255,0,0
+color 0,0,128
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -188,7 +176,6 @@ visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -198,12 +185,11 @@ bigDataUrl enh_anatomy_bigWig/BONE.bigWig
 shortLabel enh_anatomy_bigWig-BONE
 longLabel enh_anatomy_bigWig-BONE
 type bigWig
-color 0,0,255
+color 255,0,255
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -213,12 +199,11 @@ bigDataUrl enh_anatomy_bigWig/STROMAL_CONNECTIVE.bigWig
 shortLabel enh_anatomy_bigWig-STROMAL_CONNECTIVE
 longLabel enh_anatomy_bigWig-STROMAL_CONNECTIVE
 type bigWig
-color 0,255,0
+color 255,228,225
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -228,12 +213,11 @@ bigDataUrl enh_anatomy_bigWig/SKIN.bigWig
 shortLabel enh_anatomy_bigWig-SKIN
 longLabel enh_anatomy_bigWig-SKIN
 type bigWig
-color 189,183,107
+color 0,255,0
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -248,7 +232,6 @@ visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -258,12 +241,11 @@ bigDataUrl enh_anatomy_bigWig/MASTER.bigWig
 shortLabel enh_anatomy_bigWig-MASTER
 longLabel enh_anatomy_bigWig-MASTER
 type bigWig
-color 128,128,0
+color 0,255,0
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -273,12 +255,11 @@ bigDataUrl enh_anatomy_bigWig/ESC_DERIVED.bigWig
 shortLabel enh_anatomy_bigWig-ESC_DERIVED
 longLabel enh_anatomy_bigWig-ESC_DERIVED
 type bigWig
-color 255,0,0
+color 255,105,180
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -288,12 +269,11 @@ bigDataUrl enh_anatomy_bigWig/GI_ESOPHAGUS.bigWig
 shortLabel enh_anatomy_bigWig-GI_ESOPHAGUS
 longLabel enh_anatomy_bigWig-GI_ESOPHAGUS
 type bigWig
-color 0,255,255
+color 255,228,225
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -303,12 +283,11 @@ bigDataUrl enh_anatomy_bigWig/MUSCLE.bigWig
 shortLabel enh_anatomy_bigWig-MUSCLE
 longLabel enh_anatomy_bigWig-MUSCLE
 type bigWig
-color 255,140,0
+color 255,228,225
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -318,12 +297,11 @@ bigDataUrl enh_anatomy_bigWig/GI_RECTUM.bigWig
 shortLabel enh_anatomy_bigWig-GI_RECTUM
 longLabel enh_anatomy_bigWig-GI_RECTUM
 type bigWig
-color 0,0,255
+color 255,0,0
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -338,7 +316,6 @@ visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -348,12 +325,11 @@ bigDataUrl enh_anatomy_bigWig/LIVER.bigWig
 shortLabel enh_anatomy_bigWig-LIVER
 longLabel enh_anatomy_bigWig-LIVER
 type bigWig
-color 0,128,128
+color 255,228,225
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -363,12 +339,11 @@ bigDataUrl enh_anatomy_bigWig/GI_INTESTINE.bigWig
 shortLabel enh_anatomy_bigWig-GI_INTESTINE
 longLabel enh_anatomy_bigWig-GI_INTESTINE
 type bigWig
-color 128,128,0
+color 189,183,107
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -378,12 +353,11 @@ bigDataUrl enh_anatomy_bigWig/ESC.bigWig
 shortLabel enh_anatomy_bigWig-ESC
 longLabel enh_anatomy_bigWig-ESC
 type bigWig
-color 0,128,128
+color 128,128,0
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -393,12 +367,11 @@ bigDataUrl enh_anatomy_bigWig/ADRENAL.bigWig
 shortLabel enh_anatomy_bigWig-ADRENAL
 longLabel enh_anatomy_bigWig-ADRENAL
 type bigWig
-color 189,183,107
+color 255,0,0
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -408,12 +381,11 @@ bigDataUrl enh_anatomy_bigWig/GI_COLON.bigWig
 shortLabel enh_anatomy_bigWig-GI_COLON
 longLabel enh_anatomy_bigWig-GI_COLON
 type bigWig
-color 255,228,225
+color 255,105,180
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -423,12 +395,11 @@ bigDataUrl enh_anatomy_bigWig/LUNG.bigWig
 shortLabel enh_anatomy_bigWig-LUNG
 longLabel enh_anatomy_bigWig-LUNG
 type bigWig
-color 255,0,0
+color 255,228,225
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -438,12 +409,11 @@ bigDataUrl enh_anatomy_bigWig/THYMUS.bigWig
 shortLabel enh_anatomy_bigWig-THYMUS
 longLabel enh_anatomy_bigWig-THYMUS
 type bigWig
-color 0,0,128
+color 255,140,0
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -458,7 +428,6 @@ visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -468,12 +437,11 @@ bigDataUrl prom_anatomy_bigWig/BRAIN.bigWig
 shortLabel prom_anatomy_bigWig-BRAIN
 longLabel prom_anatomy_bigWig-BRAIN
 type bigWig
-color 128,128,0
+color 255,0,255
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -483,12 +451,11 @@ bigDataUrl prom_anatomy_bigWig/BREAST.bigWig
 shortLabel prom_anatomy_bigWig-BREAST
 longLabel prom_anatomy_bigWig-BREAST
 type bigWig
-color 255,0,255
+color 128,0,0
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -498,12 +465,11 @@ bigDataUrl prom_anatomy_bigWig/PLACENTA.bigWig
 shortLabel prom_anatomy_bigWig-PLACENTA
 longLabel prom_anatomy_bigWig-PLACENTA
 type bigWig
-color 128,128,0
+color 128,0,0
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -513,12 +479,11 @@ bigDataUrl prom_anatomy_bigWig/VASCULAR.bigWig
 shortLabel prom_anatomy_bigWig-VASCULAR
 longLabel prom_anatomy_bigWig-VASCULAR
 type bigWig
-color 255,105,180
+color 189,183,107
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -528,12 +493,11 @@ bigDataUrl prom_anatomy_bigWig/MUSCLE_LEG.bigWig
 shortLabel prom_anatomy_bigWig-MUSCLE_LEG
 longLabel prom_anatomy_bigWig-MUSCLE_LEG
 type bigWig
-color 255,228,225
+color 139,69,19
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -543,12 +507,11 @@ bigDataUrl prom_anatomy_bigWig/GI_STOMACH.bigWig
 shortLabel prom_anatomy_bigWig-GI_STOMACH
 longLabel prom_anatomy_bigWig-GI_STOMACH
 type bigWig
-color 255,0,255
+color 255,228,225
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -558,12 +521,11 @@ bigDataUrl prom_anatomy_bigWig/OVARY.bigWig
 shortLabel prom_anatomy_bigWig-OVARY
 longLabel prom_anatomy_bigWig-OVARY
 type bigWig
-color 0,255,0
+color 0,0,255
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -573,12 +535,11 @@ bigDataUrl prom_anatomy_bigWig/KIDNEY.bigWig
 shortLabel prom_anatomy_bigWig-KIDNEY
 longLabel prom_anatomy_bigWig-KIDNEY
 type bigWig
-color 128,0,128
+color 189,183,107
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -588,12 +549,11 @@ bigDataUrl prom_anatomy_bigWig/HEART.bigWig
 shortLabel prom_anatomy_bigWig-HEART
 longLabel prom_anatomy_bigWig-HEART
 type bigWig
-color 255,140,0
+color 255,0,255
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -603,12 +563,11 @@ bigDataUrl prom_anatomy_bigWig/SPLEEN.bigWig
 shortLabel prom_anatomy_bigWig-SPLEEN
 longLabel prom_anatomy_bigWig-SPLEEN
 type bigWig
-color 0,255,255
+color 255,0,255
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -618,12 +577,11 @@ bigDataUrl prom_anatomy_bigWig/GI_DUODENUM.bigWig
 shortLabel prom_anatomy_bigWig-GI_DUODENUM
 longLabel prom_anatomy_bigWig-GI_DUODENUM
 type bigWig
-color 255,0,0
+color 0,255,0
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -633,12 +591,11 @@ bigDataUrl prom_anatomy_bigWig/BLOOD.bigWig
 shortLabel prom_anatomy_bigWig-BLOOD
 longLabel prom_anatomy_bigWig-BLOOD
 type bigWig
-color 255,0,0
+color 189,183,107
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -648,12 +605,11 @@ bigDataUrl prom_anatomy_bigWig/FAT.bigWig
 shortLabel prom_anatomy_bigWig-FAT
 longLabel prom_anatomy_bigWig-FAT
 type bigWig
-color 255,0,255
+color 139,69,19
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -663,12 +619,11 @@ bigDataUrl prom_anatomy_bigWig/BONE.bigWig
 shortLabel prom_anatomy_bigWig-BONE
 longLabel prom_anatomy_bigWig-BONE
 type bigWig
-color 255,228,225
+color 128,0,128
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -678,12 +633,11 @@ bigDataUrl prom_anatomy_bigWig/STROMAL_CONNECTIVE.bigWig
 shortLabel prom_anatomy_bigWig-STROMAL_CONNECTIVE
 longLabel prom_anatomy_bigWig-STROMAL_CONNECTIVE
 type bigWig
-color 255,0,0
+color 128,0,0
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -693,12 +647,11 @@ bigDataUrl prom_anatomy_bigWig/SKIN.bigWig
 shortLabel prom_anatomy_bigWig-SKIN
 longLabel prom_anatomy_bigWig-SKIN
 type bigWig
-color 255,228,225
+color 0,0,255
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -708,12 +661,11 @@ bigDataUrl prom_anatomy_bigWig/CERVIX.bigWig
 shortLabel prom_anatomy_bigWig-CERVIX
 longLabel prom_anatomy_bigWig-CERVIX
 type bigWig
-color 128,128,0
+color 128,0,0
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -723,12 +675,11 @@ bigDataUrl prom_anatomy_bigWig/MASTER.bigWig
 shortLabel prom_anatomy_bigWig-MASTER
 longLabel prom_anatomy_bigWig-MASTER
 type bigWig
-color 128,0,128
+color 0,0,128
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -738,12 +689,11 @@ bigDataUrl prom_anatomy_bigWig/ESC_DERIVED.bigWig
 shortLabel prom_anatomy_bigWig-ESC_DERIVED
 longLabel prom_anatomy_bigWig-ESC_DERIVED
 type bigWig
-color 255,0,255
+color 0,255,0
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -753,12 +703,11 @@ bigDataUrl prom_anatomy_bigWig/GI_ESOPHAGUS.bigWig
 shortLabel prom_anatomy_bigWig-GI_ESOPHAGUS
 longLabel prom_anatomy_bigWig-GI_ESOPHAGUS
 type bigWig
-color 0,0,255
+color 255,0,0
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -768,12 +717,11 @@ bigDataUrl prom_anatomy_bigWig/MUSCLE.bigWig
 shortLabel prom_anatomy_bigWig-MUSCLE
 longLabel prom_anatomy_bigWig-MUSCLE
 type bigWig
-color 189,183,107
+color 128,0,128
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -783,12 +731,11 @@ bigDataUrl prom_anatomy_bigWig/GI_RECTUM.bigWig
 shortLabel prom_anatomy_bigWig-GI_RECTUM
 longLabel prom_anatomy_bigWig-GI_RECTUM
 type bigWig
-color 128,128,0
+color 255,140,0
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -798,12 +745,11 @@ bigDataUrl prom_anatomy_bigWig/IPSC.bigWig
 shortLabel prom_anatomy_bigWig-IPSC
 longLabel prom_anatomy_bigWig-IPSC
 type bigWig
-color 255,140,0
+color 0,0,128
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -813,12 +759,11 @@ bigDataUrl prom_anatomy_bigWig/LIVER.bigWig
 shortLabel prom_anatomy_bigWig-LIVER
 longLabel prom_anatomy_bigWig-LIVER
 type bigWig
-color 0,0,255
+color 128,0,0
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -828,12 +773,11 @@ bigDataUrl prom_anatomy_bigWig/GI_INTESTINE.bigWig
 shortLabel prom_anatomy_bigWig-GI_INTESTINE
 longLabel prom_anatomy_bigWig-GI_INTESTINE
 type bigWig
-color 255,140,0
+color 0,0,128
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -843,12 +787,11 @@ bigDataUrl prom_anatomy_bigWig/ESC.bigWig
 shortLabel prom_anatomy_bigWig-ESC
 longLabel prom_anatomy_bigWig-ESC
 type bigWig
-color 189,183,107
+color 255,105,180
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -858,12 +801,11 @@ bigDataUrl prom_anatomy_bigWig/ADRENAL.bigWig
 shortLabel prom_anatomy_bigWig-ADRENAL
 longLabel prom_anatomy_bigWig-ADRENAL
 type bigWig
-color 0,0,255
+color 255,0,0
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -873,12 +815,11 @@ bigDataUrl prom_anatomy_bigWig/GI_COLON.bigWig
 shortLabel prom_anatomy_bigWig-GI_COLON
 longLabel prom_anatomy_bigWig-GI_COLON
 type bigWig
-color 255,140,0
+color 0,128,128
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -888,12 +829,11 @@ bigDataUrl prom_anatomy_bigWig/LUNG.bigWig
 shortLabel prom_anatomy_bigWig-LUNG
 longLabel prom_anatomy_bigWig-LUNG
 type bigWig
-color 0,0,128
+color 139,69,19
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -903,12 +843,11 @@ bigDataUrl prom_anatomy_bigWig/THYMUS.bigWig
 shortLabel prom_anatomy_bigWig-THYMUS
 longLabel prom_anatomy_bigWig-THYMUS
 type bigWig
-color 0,128,128
+color 128,0,0
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -918,12 +857,11 @@ bigDataUrl prom_anatomy_bigWig/PANCREAS.bigWig
 shortLabel prom_anatomy_bigWig-PANCREAS
 longLabel prom_anatomy_bigWig-PANCREAS
 type bigWig
-color 0,255,0
+color 255,105,180
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -938,7 +876,6 @@ visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
 
@@ -948,11 +885,10 @@ bigDataUrl specialization_entropy_bigWig/prom_entropy.bigWig
 shortLabel specialization_entropy_bigWig-prom_entropy
 longLabel specialization_entropy_bigWig-prom_entropy
 type bigWig
-color 128,0,128
+color 128,128,0
 visibility full
 autoScale on
 graphTypeDefault bar
 windowingFunction mean
-viewLimits 0.0:1000.0
 smoothingWindow 12
 spectrum on
