@@ -213,3 +213,17 @@ bigDataUrl prom_anatomy_bigWig/PANCREAS.bigWig
 shortLabel prom_anatomy_bigWig-PANCREAS
 longLabel prom_anatomy_bigWig-PANCREAS
 type bigWig
+
+
+track specialization_entropy_bigWig-enh_entropy
+bigDataUrl specialization_entropy_bigWig/enh_entropy.bigWig
+shortLabel specialization_entropy_bigWig-enh_entropy
+longLabel specialization_entropy_bigWig-enh_entropy
+type bigWig
+
+
+track specialization_entropy_bigWig-prom_entropy
+bigDataUrl specialization_entropy_bigWig/prom_entropy.bigWig
+shortLabel specialization_entropy_bigWig-prom_entropy
+longLabel specialization_entropy_bigWig-prom_entropy
+type bigWig
