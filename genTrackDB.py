@@ -36,9 +36,9 @@ def makeTrackStr(f,tag,color):
         	'visibility full\n'
         	'autoScale on\n'
 		'graphTypeDefault bar\n'
-		'windowingFunction mean+whiskers\n'
-		'viewLimits 0.0:1000.0\n'
-#		'smoothingWindow 12\n'
+		'windowingFunction mean\n'
+#		'viewLimits 0.0:1000.0\n'
+		'smoothingWindow 12\n'
 		'spectrum on\n\n\n'
 	       )
 	return str
