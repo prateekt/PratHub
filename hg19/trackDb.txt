@@ -1,574 +1,215 @@
-track enh_anatomy_bw-BRAIN
-bigDataUrl enh_anatomy_bw/BRAIN.bigWig
-shortLabel enh_anatomy_bw-BRAIN
-longLabel enh_anatomy_bw-BRAIN
+track prom_anatomy_bigWig-BRAIN
+bigDataUrl prom_anatomy_bigWig/BRAIN.bigWig
+shortLabel prom_anatomy_bigWig-BRAIN
+longLabel prom_anatomy_bigWig-BRAIN
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-BREAST
-bigDataUrl enh_anatomy_bw/BREAST.bigWig
-shortLabel enh_anatomy_bw-BREAST
-longLabel enh_anatomy_bw-BREAST
+track prom_anatomy_bigWig-BREAST
+bigDataUrl prom_anatomy_bigWig/BREAST.bigWig
+shortLabel prom_anatomy_bigWig-BREAST
+longLabel prom_anatomy_bigWig-BREAST
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-PLACENTA
-bigDataUrl enh_anatomy_bw/PLACENTA.bigWig
-shortLabel enh_anatomy_bw-PLACENTA
-longLabel enh_anatomy_bw-PLACENTA
+track prom_anatomy_bigWig-PLACENTA
+bigDataUrl prom_anatomy_bigWig/PLACENTA.bigWig
+shortLabel prom_anatomy_bigWig-PLACENTA
+longLabel prom_anatomy_bigWig-PLACENTA
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-VASCULAR
-bigDataUrl enh_anatomy_bw/VASCULAR.bigWig
-shortLabel enh_anatomy_bw-VASCULAR
-longLabel enh_anatomy_bw-VASCULAR
+track prom_anatomy_bigWig-VASCULAR
+bigDataUrl prom_anatomy_bigWig/VASCULAR.bigWig
+shortLabel prom_anatomy_bigWig-VASCULAR
+longLabel prom_anatomy_bigWig-VASCULAR
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-MUSCLE_LEG
-bigDataUrl enh_anatomy_bw/MUSCLE_LEG.bigWig
-shortLabel enh_anatomy_bw-MUSCLE_LEG
-longLabel enh_anatomy_bw-MUSCLE_LEG
+track prom_anatomy_bigWig-MUSCLE_LEG
+bigDataUrl prom_anatomy_bigWig/MUSCLE_LEG.bigWig
+shortLabel prom_anatomy_bigWig-MUSCLE_LEG
+longLabel prom_anatomy_bigWig-MUSCLE_LEG
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-GI_STOMACH
-bigDataUrl enh_anatomy_bw/GI_STOMACH.bigWig
-shortLabel enh_anatomy_bw-GI_STOMACH
-longLabel enh_anatomy_bw-GI_STOMACH
+track prom_anatomy_bigWig-GI_STOMACH
+bigDataUrl prom_anatomy_bigWig/GI_STOMACH.bigWig
+shortLabel prom_anatomy_bigWig-GI_STOMACH
+longLabel prom_anatomy_bigWig-GI_STOMACH
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-OVARY
-bigDataUrl enh_anatomy_bw/OVARY.bigWig
-shortLabel enh_anatomy_bw-OVARY
-longLabel enh_anatomy_bw-OVARY
+track prom_anatomy_bigWig-OVARY
+bigDataUrl prom_anatomy_bigWig/OVARY.bigWig
+shortLabel prom_anatomy_bigWig-OVARY
+longLabel prom_anatomy_bigWig-OVARY
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-KIDNEY
-bigDataUrl enh_anatomy_bw/KIDNEY.bigWig
-shortLabel enh_anatomy_bw-KIDNEY
-longLabel enh_anatomy_bw-KIDNEY
+track prom_anatomy_bigWig-KIDNEY
+bigDataUrl prom_anatomy_bigWig/KIDNEY.bigWig
+shortLabel prom_anatomy_bigWig-KIDNEY
+longLabel prom_anatomy_bigWig-KIDNEY
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-HEART
-bigDataUrl enh_anatomy_bw/HEART.bigWig
-shortLabel enh_anatomy_bw-HEART
-longLabel enh_anatomy_bw-HEART
+track prom_anatomy_bigWig-HEART
+bigDataUrl prom_anatomy_bigWig/HEART.bigWig
+shortLabel prom_anatomy_bigWig-HEART
+longLabel prom_anatomy_bigWig-HEART
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-SPLEEN
-bigDataUrl enh_anatomy_bw/SPLEEN.bigWig
-shortLabel enh_anatomy_bw-SPLEEN
-longLabel enh_anatomy_bw-SPLEEN
+track prom_anatomy_bigWig-SPLEEN
+bigDataUrl prom_anatomy_bigWig/SPLEEN.bigWig
+shortLabel prom_anatomy_bigWig-SPLEEN
+longLabel prom_anatomy_bigWig-SPLEEN
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-GI_DUODENUM
-bigDataUrl enh_anatomy_bw/GI_DUODENUM.bigWig
-shortLabel enh_anatomy_bw-GI_DUODENUM
-longLabel enh_anatomy_bw-GI_DUODENUM
+track prom_anatomy_bigWig-GI_DUODENUM
+bigDataUrl prom_anatomy_bigWig/GI_DUODENUM.bigWig
+shortLabel prom_anatomy_bigWig-GI_DUODENUM
+longLabel prom_anatomy_bigWig-GI_DUODENUM
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-BLOOD
-bigDataUrl enh_anatomy_bw/BLOOD.bigWig
-shortLabel enh_anatomy_bw-BLOOD
-longLabel enh_anatomy_bw-BLOOD
+track prom_anatomy_bigWig-BLOOD
+bigDataUrl prom_anatomy_bigWig/BLOOD.bigWig
+shortLabel prom_anatomy_bigWig-BLOOD
+longLabel prom_anatomy_bigWig-BLOOD
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-FAT
-bigDataUrl enh_anatomy_bw/FAT.bigWig
-shortLabel enh_anatomy_bw-FAT
-longLabel enh_anatomy_bw-FAT
+track prom_anatomy_bigWig-FAT
+bigDataUrl prom_anatomy_bigWig/FAT.bigWig
+shortLabel prom_anatomy_bigWig-FAT
+longLabel prom_anatomy_bigWig-FAT
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-BONE
-bigDataUrl enh_anatomy_bw/BONE.bigWig
-shortLabel enh_anatomy_bw-BONE
-longLabel enh_anatomy_bw-BONE
+track prom_anatomy_bigWig-BONE
+bigDataUrl prom_anatomy_bigWig/BONE.bigWig
+shortLabel prom_anatomy_bigWig-BONE
+longLabel prom_anatomy_bigWig-BONE
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-STROMAL_CONNECTIVE
-bigDataUrl enh_anatomy_bw/STROMAL_CONNECTIVE.bigWig
-shortLabel enh_anatomy_bw-STROMAL_CONNECTIVE
-longLabel enh_anatomy_bw-STROMAL_CONNECTIVE
+track prom_anatomy_bigWig-STROMAL_CONNECTIVE
+bigDataUrl prom_anatomy_bigWig/STROMAL_CONNECTIVE.bigWig
+shortLabel prom_anatomy_bigWig-STROMAL_CONNECTIVE
+longLabel prom_anatomy_bigWig-STROMAL_CONNECTIVE
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-SKIN
-bigDataUrl enh_anatomy_bw/SKIN.bigWig
-shortLabel enh_anatomy_bw-SKIN
-longLabel enh_anatomy_bw-SKIN
+track prom_anatomy_bigWig-SKIN
+bigDataUrl prom_anatomy_bigWig/SKIN.bigWig
+shortLabel prom_anatomy_bigWig-SKIN
+longLabel prom_anatomy_bigWig-SKIN
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-CERVIX
-bigDataUrl enh_anatomy_bw/CERVIX.bigWig
-shortLabel enh_anatomy_bw-CERVIX
-longLabel enh_anatomy_bw-CERVIX
+track prom_anatomy_bigWig-CERVIX
+bigDataUrl prom_anatomy_bigWig/CERVIX.bigWig
+shortLabel prom_anatomy_bigWig-CERVIX
+longLabel prom_anatomy_bigWig-CERVIX
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-MASTER
-bigDataUrl enh_anatomy_bw/MASTER.bigWig
-shortLabel enh_anatomy_bw-MASTER
-longLabel enh_anatomy_bw-MASTER
+track prom_anatomy_bigWig-MASTER
+bigDataUrl prom_anatomy_bigWig/MASTER.bigWig
+shortLabel prom_anatomy_bigWig-MASTER
+longLabel prom_anatomy_bigWig-MASTER
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-ESC_DERIVED
-bigDataUrl enh_anatomy_bw/ESC_DERIVED.bigWig
-shortLabel enh_anatomy_bw-ESC_DERIVED
-longLabel enh_anatomy_bw-ESC_DERIVED
+track prom_anatomy_bigWig-ESC_DERIVED
+bigDataUrl prom_anatomy_bigWig/ESC_DERIVED.bigWig
+shortLabel prom_anatomy_bigWig-ESC_DERIVED
+longLabel prom_anatomy_bigWig-ESC_DERIVED
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-GI_ESOPHAGUS
-bigDataUrl enh_anatomy_bw/GI_ESOPHAGUS.bigWig
-shortLabel enh_anatomy_bw-GI_ESOPHAGUS
-longLabel enh_anatomy_bw-GI_ESOPHAGUS
+track prom_anatomy_bigWig-GI_ESOPHAGUS
+bigDataUrl prom_anatomy_bigWig/GI_ESOPHAGUS.bigWig
+shortLabel prom_anatomy_bigWig-GI_ESOPHAGUS
+longLabel prom_anatomy_bigWig-GI_ESOPHAGUS
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-MUSCLE
-bigDataUrl enh_anatomy_bw/MUSCLE.bigWig
-shortLabel enh_anatomy_bw-MUSCLE
-longLabel enh_anatomy_bw-MUSCLE
+track prom_anatomy_bigWig-MUSCLE
+bigDataUrl prom_anatomy_bigWig/MUSCLE.bigWig
+shortLabel prom_anatomy_bigWig-MUSCLE
+longLabel prom_anatomy_bigWig-MUSCLE
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-GI_RECTUM
-bigDataUrl enh_anatomy_bw/GI_RECTUM.bigWig
-shortLabel enh_anatomy_bw-GI_RECTUM
-longLabel enh_anatomy_bw-GI_RECTUM
+track prom_anatomy_bigWig-GI_RECTUM
+bigDataUrl prom_anatomy_bigWig/GI_RECTUM.bigWig
+shortLabel prom_anatomy_bigWig-GI_RECTUM
+longLabel prom_anatomy_bigWig-GI_RECTUM
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-IPSC
-bigDataUrl enh_anatomy_bw/IPSC.bigWig
-shortLabel enh_anatomy_bw-IPSC
-longLabel enh_anatomy_bw-IPSC
+track prom_anatomy_bigWig-IPSC
+bigDataUrl prom_anatomy_bigWig/IPSC.bigWig
+shortLabel prom_anatomy_bigWig-IPSC
+longLabel prom_anatomy_bigWig-IPSC
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-LIVER
-bigDataUrl enh_anatomy_bw/LIVER.bigWig
-shortLabel enh_anatomy_bw-LIVER
-longLabel enh_anatomy_bw-LIVER
+track prom_anatomy_bigWig-LIVER
+bigDataUrl prom_anatomy_bigWig/LIVER.bigWig
+shortLabel prom_anatomy_bigWig-LIVER
+longLabel prom_anatomy_bigWig-LIVER
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-GI_INTESTINE
-bigDataUrl enh_anatomy_bw/GI_INTESTINE.bigWig
-shortLabel enh_anatomy_bw-GI_INTESTINE
-longLabel enh_anatomy_bw-GI_INTESTINE
+track prom_anatomy_bigWig-GI_INTESTINE
+bigDataUrl prom_anatomy_bigWig/GI_INTESTINE.bigWig
+shortLabel prom_anatomy_bigWig-GI_INTESTINE
+longLabel prom_anatomy_bigWig-GI_INTESTINE
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-ESC
-bigDataUrl enh_anatomy_bw/ESC.bigWig
-shortLabel enh_anatomy_bw-ESC
-longLabel enh_anatomy_bw-ESC
+track prom_anatomy_bigWig-ESC
+bigDataUrl prom_anatomy_bigWig/ESC.bigWig
+shortLabel prom_anatomy_bigWig-ESC
+longLabel prom_anatomy_bigWig-ESC
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-ADRENAL
-bigDataUrl enh_anatomy_bw/ADRENAL.bigWig
-shortLabel enh_anatomy_bw-ADRENAL
-longLabel enh_anatomy_bw-ADRENAL
+track prom_anatomy_bigWig-ADRENAL
+bigDataUrl prom_anatomy_bigWig/ADRENAL.bigWig
+shortLabel prom_anatomy_bigWig-ADRENAL
+longLabel prom_anatomy_bigWig-ADRENAL
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-GI_COLON
-bigDataUrl enh_anatomy_bw/GI_COLON.bigWig
-shortLabel enh_anatomy_bw-GI_COLON
-longLabel enh_anatomy_bw-GI_COLON
+track prom_anatomy_bigWig-GI_COLON
+bigDataUrl prom_anatomy_bigWig/GI_COLON.bigWig
+shortLabel prom_anatomy_bigWig-GI_COLON
+longLabel prom_anatomy_bigWig-GI_COLON
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-LUNG
-bigDataUrl enh_anatomy_bw/LUNG.bigWig
-shortLabel enh_anatomy_bw-LUNG
-longLabel enh_anatomy_bw-LUNG
+track prom_anatomy_bigWig-LUNG
+bigDataUrl prom_anatomy_bigWig/LUNG.bigWig
+shortLabel prom_anatomy_bigWig-LUNG
+longLabel prom_anatomy_bigWig-LUNG
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-THYMUS
-bigDataUrl enh_anatomy_bw/THYMUS.bigWig
-shortLabel enh_anatomy_bw-THYMUS
-longLabel enh_anatomy_bw-THYMUS
+track prom_anatomy_bigWig-THYMUS
+bigDataUrl prom_anatomy_bigWig/THYMUS.bigWig
+shortLabel prom_anatomy_bigWig-THYMUS
+longLabel prom_anatomy_bigWig-THYMUS
 type bigWig
-graphType bar
-spectrum on
 
 
-track enh_anatomy_bw-PANCREAS
-bigDataUrl enh_anatomy_bw/PANCREAS.bigWig
-shortLabel enh_anatomy_bw-PANCREAS
-longLabel enh_anatomy_bw-PANCREAS
+track prom_anatomy_bigWig-PANCREAS
+bigDataUrl prom_anatomy_bigWig/PANCREAS.bigWig
+shortLabel prom_anatomy_bigWig-PANCREAS
+longLabel prom_anatomy_bigWig-PANCREAS
 type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-BRAIN
-bigDataUrl prom_anatomy_bw/BRAIN.bigWig
-shortLabel prom_anatomy_bw-BRAIN
-longLabel prom_anatomy_bw-BRAIN
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-BREAST
-bigDataUrl prom_anatomy_bw/BREAST.bigWig
-shortLabel prom_anatomy_bw-BREAST
-longLabel prom_anatomy_bw-BREAST
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-PLACENTA
-bigDataUrl prom_anatomy_bw/PLACENTA.bigWig
-shortLabel prom_anatomy_bw-PLACENTA
-longLabel prom_anatomy_bw-PLACENTA
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-VASCULAR
-bigDataUrl prom_anatomy_bw/VASCULAR.bigWig
-shortLabel prom_anatomy_bw-VASCULAR
-longLabel prom_anatomy_bw-VASCULAR
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-MUSCLE_LEG
-bigDataUrl prom_anatomy_bw/MUSCLE_LEG.bigWig
-shortLabel prom_anatomy_bw-MUSCLE_LEG
-longLabel prom_anatomy_bw-MUSCLE_LEG
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-GI_STOMACH
-bigDataUrl prom_anatomy_bw/GI_STOMACH.bigWig
-shortLabel prom_anatomy_bw-GI_STOMACH
-longLabel prom_anatomy_bw-GI_STOMACH
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-OVARY
-bigDataUrl prom_anatomy_bw/OVARY.bigWig
-shortLabel prom_anatomy_bw-OVARY
-longLabel prom_anatomy_bw-OVARY
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-KIDNEY
-bigDataUrl prom_anatomy_bw/KIDNEY.bigWig
-shortLabel prom_anatomy_bw-KIDNEY
-longLabel prom_anatomy_bw-KIDNEY
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-HEART
-bigDataUrl prom_anatomy_bw/HEART.bigWig
-shortLabel prom_anatomy_bw-HEART
-longLabel prom_anatomy_bw-HEART
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-SPLEEN
-bigDataUrl prom_anatomy_bw/SPLEEN.bigWig
-shortLabel prom_anatomy_bw-SPLEEN
-longLabel prom_anatomy_bw-SPLEEN
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-GI_DUODENUM
-bigDataUrl prom_anatomy_bw/GI_DUODENUM.bigWig
-shortLabel prom_anatomy_bw-GI_DUODENUM
-longLabel prom_anatomy_bw-GI_DUODENUM
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-BLOOD
-bigDataUrl prom_anatomy_bw/BLOOD.bigWig
-shortLabel prom_anatomy_bw-BLOOD
-longLabel prom_anatomy_bw-BLOOD
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-FAT
-bigDataUrl prom_anatomy_bw/FAT.bigWig
-shortLabel prom_anatomy_bw-FAT
-longLabel prom_anatomy_bw-FAT
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-BONE
-bigDataUrl prom_anatomy_bw/BONE.bigWig
-shortLabel prom_anatomy_bw-BONE
-longLabel prom_anatomy_bw-BONE
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-STROMAL_CONNECTIVE
-bigDataUrl prom_anatomy_bw/STROMAL_CONNECTIVE.bigWig
-shortLabel prom_anatomy_bw-STROMAL_CONNECTIVE
-longLabel prom_anatomy_bw-STROMAL_CONNECTIVE
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-SKIN
-bigDataUrl prom_anatomy_bw/SKIN.bigWig
-shortLabel prom_anatomy_bw-SKIN
-longLabel prom_anatomy_bw-SKIN
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-CERVIX
-bigDataUrl prom_anatomy_bw/CERVIX.bigWig
-shortLabel prom_anatomy_bw-CERVIX
-longLabel prom_anatomy_bw-CERVIX
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-MASTER
-bigDataUrl prom_anatomy_bw/MASTER.bigWig
-shortLabel prom_anatomy_bw-MASTER
-longLabel prom_anatomy_bw-MASTER
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-ESC_DERIVED
-bigDataUrl prom_anatomy_bw/ESC_DERIVED.bigWig
-shortLabel prom_anatomy_bw-ESC_DERIVED
-longLabel prom_anatomy_bw-ESC_DERIVED
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-GI_ESOPHAGUS
-bigDataUrl prom_anatomy_bw/GI_ESOPHAGUS.bigWig
-shortLabel prom_anatomy_bw-GI_ESOPHAGUS
-longLabel prom_anatomy_bw-GI_ESOPHAGUS
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-MUSCLE
-bigDataUrl prom_anatomy_bw/MUSCLE.bigWig
-shortLabel prom_anatomy_bw-MUSCLE
-longLabel prom_anatomy_bw-MUSCLE
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-GI_RECTUM
-bigDataUrl prom_anatomy_bw/GI_RECTUM.bigWig
-shortLabel prom_anatomy_bw-GI_RECTUM
-longLabel prom_anatomy_bw-GI_RECTUM
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-IPSC
-bigDataUrl prom_anatomy_bw/IPSC.bigWig
-shortLabel prom_anatomy_bw-IPSC
-longLabel prom_anatomy_bw-IPSC
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-LIVER
-bigDataUrl prom_anatomy_bw/LIVER.bigWig
-shortLabel prom_anatomy_bw-LIVER
-longLabel prom_anatomy_bw-LIVER
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-GI_INTESTINE
-bigDataUrl prom_anatomy_bw/GI_INTESTINE.bigWig
-shortLabel prom_anatomy_bw-GI_INTESTINE
-longLabel prom_anatomy_bw-GI_INTESTINE
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-ESC
-bigDataUrl prom_anatomy_bw/ESC.bigWig
-shortLabel prom_anatomy_bw-ESC
-longLabel prom_anatomy_bw-ESC
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-ADRENAL
-bigDataUrl prom_anatomy_bw/ADRENAL.bigWig
-shortLabel prom_anatomy_bw-ADRENAL
-longLabel prom_anatomy_bw-ADRENAL
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-GI_COLON
-bigDataUrl prom_anatomy_bw/GI_COLON.bigWig
-shortLabel prom_anatomy_bw-GI_COLON
-longLabel prom_anatomy_bw-GI_COLON
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-LUNG
-bigDataUrl prom_anatomy_bw/LUNG.bigWig
-shortLabel prom_anatomy_bw-LUNG
-longLabel prom_anatomy_bw-LUNG
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-THYMUS
-bigDataUrl prom_anatomy_bw/THYMUS.bigWig
-shortLabel prom_anatomy_bw-THYMUS
-longLabel prom_anatomy_bw-THYMUS
-type bigWig
-graphType bar
-spectrum on
-
-
-track prom_anatomy_bw-PANCREAS
-bigDataUrl prom_anatomy_bw/PANCREAS.bigWig
-shortLabel prom_anatomy_bw-PANCREAS
-longLabel prom_anatomy_bw-PANCREAS
-type bigWig
-graphType bar
-spectrum on
-
-
-track specialization_entropy_bw-enh_entropy
-bigDataUrl specialization_entropy_bw/enh_entropy.bigWig
-shortLabel specialization_entropy_bw-enh_entropy
-longLabel specialization_entropy_bw-enh_entropy
-type bigWig
-graphType bar
-spectrum on
-
-
-track specialization_entropy_bw-prom_entropy
-bigDataUrl specialization_entropy_bw/prom_entropy.bigWig
-shortLabel specialization_entropy_bw-prom_entropy
-longLabel specialization_entropy_bw-prom_entropy
-type bigWig
-graphType bar
-spectrum on

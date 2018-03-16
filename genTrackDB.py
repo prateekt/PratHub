@@ -11,9 +11,9 @@ def makeTrackStr(f,tag):
 		'track ' + tag + '\n'
 		'bigDataUrl ' + f + '\n'
 		'shortLabel ' + tag + '\n'
-		'longLabel '  +tag + '\n'
-		'type bigWig\n'
-		'spectrum on\n\n\n'
+		'longLabel '  + tag + '\n'
+		'type bigWig\n\n\n'
+#		'spectrum on\n\n\n'
 	       )
 	return str
 
