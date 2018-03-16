@@ -1,5 +1,6 @@
 import os
 import sys
+import numpy as np
 
 COLORS = [
 	"255,0,0", #red
@@ -13,7 +14,10 @@ COLORS = [
 	"0,128,128", #teal
 	"0,0,128", #navy
 	"189,183,107", #dark khaki
-	"255,228,225" #misty rose
+	"255,228,225", #misty rose
+	"139,69,19", #saddle brown
+	"255,105,180", #hot pink
+	"255,140,0" #dark orange
 	]	
 
 def rootname(f):
@@ -32,8 +36,9 @@ def makeTrackStr(f,tag,color):
         	'visibility full\n'
         	'autoScale on\n'
 		'graphTypeDefault bar\n'
-		'windowingFunction mean\n'
-		'smoothingWindow 12\n'
+		'windowingFunction mean+whiskers\n'
+		'viewLimits 0.0:1000.0\n'
+#		'smoothingWindow 12\n'
 		'spectrum on\n\n\n'
 	       )
 	return str
@@ -44,14 +49,12 @@ top_folders.sort()
 
 #folder iter
 fout = open('hg19/trackDb.txt','w')
-fIndex = 0
 for f in top_folders:
 	files = [f + '/' + a for a in os.listdir('hg19/' + f) if ".bigWig" in a]
 	for urlIndex in xrange(0,len(files)):
 		url = files[urlIndex]
-		command = makeTrackStr(url,f+'-'+rootname(url),COLORS[fIndex])
+		command = makeTrackStr(url,f+'-'+rootname(url),COLORS[np.random.randint(len(COLORS))])
 		if(f==top_folders[-1] and urlIndex==len(files)-1):
 			command = command.rstrip()
 		fout.write(command)
-	fIndex = fIndex + 1
 fout.close()
