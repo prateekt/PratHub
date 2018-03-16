@@ -12,8 +12,14 @@ def makeTrackStr(f,tag):
 		'bigDataUrl ' + f + '\n'
 		'shortLabel ' + tag + '\n'
 		'longLabel '  + tag + '\n'
-		'type bigWig\n\n\n'
-#		'spectrum on\n\n\n'
+		'type bigWig\n'
+		'color 27,120,55\n'
+        	'visibility full\n'
+        	'autoScale on\n'
+		'graphTypeDefault bar\n'
+		'windowingFunction mean\n'
+		'smoothingWindow 12\n'
+		'spectrum on\n\n\n'
 	       )
 	return str
 
