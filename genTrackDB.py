@@ -1,19 +1,34 @@
 import os
 import sys
 
+COLORS = [
+	"255,0,0", #red
+	"0,255,0", #lime
+	"0,0,255", #blue
+	"0,255,255", #cyan
+	"255,0,255", #magenta
+	"128,0,0", #maroon
+	"128,128,0", #olive
+	"128,0,128", #purple
+	"0,128,128", #teal
+	"0,0,128", #navy
+	"189,183,107", #dark khaki
+	"255,228,225" #misty rose
+	]	
+
 def rootname(f):
 	a = os.path.basename(f)
 	aParts = a.split('.')
 	return aParts[0]
 
-def makeTrackStr(f,tag):
+def makeTrackStr(f,tag,color):
 	str = (
 		'track ' + tag + '\n'
 		'bigDataUrl ' + f + '\n'
 		'shortLabel ' + tag + '\n'
 		'longLabel '  + tag + '\n'
 		'type bigWig\n'
-		'color 27,120,55\n'
+		'color '+color+'\n'
         	'visibility full\n'
         	'autoScale on\n'
 		'graphTypeDefault bar\n'
@@ -29,12 +44,14 @@ top_folders.sort()
 
 #folder iter
 fout = open('hg19/trackDb.txt','w')
+fIndex = 0
 for f in top_folders:
 	files = [f + '/' + a for a in os.listdir('hg19/' + f) if ".bigWig" in a]
 	for urlIndex in xrange(0,len(files)):
 		url = files[urlIndex]
-		command = makeTrackStr(url,f+'-'+rootname(url))
+		command = makeTrackStr(url,f+'-'+rootname(url),COLORS[fIndex])
 		if(f==top_folders[-1] and urlIndex==len(files)-1):
 			command = command.rstrip()
 		fout.write(command)
+	fIndex = fIndex + 1
 fout.close()
