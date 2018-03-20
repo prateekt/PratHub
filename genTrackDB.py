@@ -20,7 +20,7 @@ COLORS = [
 	"255,140,0", #dark orange
 	"192,192,192," #silver
 	"178,34,34", #firebrick
-	"205.92,92", #indian red
+	"205,92,92", #indian red
 	"218,165,32", #golden rod
 	"238,130,238", #violet
 	"244,164,96", #sandy brown
