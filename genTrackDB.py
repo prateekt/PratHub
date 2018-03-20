@@ -18,7 +18,7 @@ COLORS = [
 	"139,69,19", #saddle brown
 	"255,105,180", #hot pink
 	"255,140,0", #dark orange
-	"192,192,192," #silver
+	"192,192,192", #silver
 	"178,34,34", #firebrick
 	"205,92,92", #indian red
 	"218,165,32", #golden rod
