@@ -17,7 +17,15 @@ COLORS = [
 	"255,228,225", #misty rose
 	"139,69,19", #saddle brown
 	"255,105,180", #hot pink
-	"255,140,0" #dark orange
+	"255,140,0", #dark orange
+	"192,192,192," #silver
+	"178,34,34," #firebrick
+	"205.92,92," #indian red
+	"218,165,32," #golden rod
+	"238,130,238," #violet
+	"244,164,96," #sandy brown
+	"0,0,0," #black
+	"128,128,128" #gray 
 	]	
 
 def rootname(f):
