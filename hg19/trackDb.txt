@@ -1,9 +1,37 @@
+track MutationRateModels_Oct25_2018-weightedPDF
+bigDataUrl MutationRateModels_Oct25_2018/weightedPDF.bigWig
+shortLabel MutationRateModels_Oct25_2018-weightedPDF
+longLabel MutationRateModels_Oct25_2018-weightedPDF
+type bigWig
+color 128,128,128
+visibility full
+autoScale on
+graphTypeDefault bar
+windowingFunction mean
+smoothingWindow 12
+spectrum on
+
+
 track MutationRateModels_Oct25_2018-OurReg_1000GDelSims_KBRegPoisson_1000wbp_rebinned
 bigDataUrl MutationRateModels_Oct25_2018/OurReg_1000GDelSims_KBRegPoisson_1000wbp_rebinned.bigWig
 shortLabel MutationRateModels_Oct25_2018-OurReg_1000GDelSims_KBRegPoisson_1000wbp_rebinned
 longLabel MutationRateModels_Oct25_2018-OurReg_1000GDelSims_KBRegPoisson_1000wbp_rebinned
 type bigWig
-color 218,165,32
+color 128,128,128
+visibility full
+autoScale on
+graphTypeDefault bar
+windowingFunction mean
+smoothingWindow 12
+spectrum on
+
+
+track MutationRateModels_Oct25_2018-S3
+bigDataUrl MutationRateModels_Oct25_2018/S3.bigWig
+shortLabel MutationRateModels_Oct25_2018-S3
+longLabel MutationRateModels_Oct25_2018-S3
+type bigWig
+color 255,140,0
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -17,7 +45,35 @@ bigDataUrl MutationRateModels_Oct25_2018/OurReg_1000GDelSims_KBRegZIP2_1000wbp_r
 shortLabel MutationRateModels_Oct25_2018-OurReg_1000GDelSims_KBRegZIP2_1000wbp_rebinned
 longLabel MutationRateModels_Oct25_2018-OurReg_1000GDelSims_KBRegZIP2_1000wbp_rebinned
 type bigWig
-color 238,130,238
+color 0,0,255
+visibility full
+autoScale on
+graphTypeDefault bar
+windowingFunction mean
+smoothingWindow 12
+spectrum on
+
+
+track MutationRateModels_Oct25_2018-S2
+bigDataUrl MutationRateModels_Oct25_2018/S2.bigWig
+shortLabel MutationRateModels_Oct25_2018-S2
+longLabel MutationRateModels_Oct25_2018-S2
+type bigWig
+color 255,140,0
+visibility full
+autoScale on
+graphTypeDefault bar
+windowingFunction mean
+smoothingWindow 12
+spectrum on
+
+
+track MutationRateModels_Oct25_2018-S1
+bigDataUrl MutationRateModels_Oct25_2018/S1.bigWig
+shortLabel MutationRateModels_Oct25_2018-S1
+longLabel MutationRateModels_Oct25_2018-S1
+type bigWig
+color 255,0,0
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -31,7 +87,21 @@ bigDataUrl MutationRateModels_Oct25_2018/OurReg_1000GDelSims_KBRegLinear_1000wbp
 shortLabel MutationRateModels_Oct25_2018-OurReg_1000GDelSims_KBRegLinear_1000wbp_rebinned
 longLabel MutationRateModels_Oct25_2018-OurReg_1000GDelSims_KBRegLinear_1000wbp_rebinned
 type bigWig
-color 205,92,92
+color 244,164,96
+visibility full
+autoScale on
+graphTypeDefault bar
+windowingFunction mean
+smoothingWindow 12
+spectrum on
+
+
+track MutationRateModels_Oct25_2018-S4
+bigDataUrl MutationRateModels_Oct25_2018/S4.bigWig
+shortLabel MutationRateModels_Oct25_2018-S4
+longLabel MutationRateModels_Oct25_2018-S4
+type bigWig
+color 255,105,180
 visibility full
 autoScale on
 graphTypeDefault bar
