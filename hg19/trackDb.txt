@@ -3,7 +3,7 @@ bigDataUrl MutationRateModels_Oct25_2018/weightedPDF.bigWig
 shortLabel MutationRateModels_Oct25_2018-weightedPDF
 longLabel MutationRateModels_Oct25_2018-weightedPDF
 type bigWig
-color 192,192,192
+color 0,0,0
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -17,7 +17,7 @@ bigDataUrl MutationRateModels_Oct25_2018/1000g_delAreas_1000000wbp.bigWig
 shortLabel MutationRateModels_Oct25_2018-1000g_delAreas_1000000wbp
 longLabel MutationRateModels_Oct25_2018-1000g_delAreas_1000000wbp
 type bigWig
-color 255,0,255
+color 178,34,34
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -31,7 +31,7 @@ bigDataUrl MutationRateModels_Oct25_2018/OurReg_1000GDelSims_KBRegPoisson_1000wb
 shortLabel MutationRateModels_Oct25_2018-OurReg_1000GDelSims_KBRegPoisson_1000wbp_rebinned
 longLabel MutationRateModels_Oct25_2018-OurReg_1000GDelSims_KBRegPoisson_1000wbp_rebinned
 type bigWig
-color 0,0,128
+color 192,192,192
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -45,7 +45,7 @@ bigDataUrl MutationRateModels_Oct25_2018/S3.bigWig
 shortLabel MutationRateModels_Oct25_2018-S3
 longLabel MutationRateModels_Oct25_2018-S3
 type bigWig
-color 128,128,0
+color 255,228,225
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -59,7 +59,7 @@ bigDataUrl MutationRateModels_Oct25_2018/OurReg_1000GDelSims_KBRegZIP2_1000wbp_r
 shortLabel MutationRateModels_Oct25_2018-OurReg_1000GDelSims_KBRegZIP2_1000wbp_rebinned
 longLabel MutationRateModels_Oct25_2018-OurReg_1000GDelSims_KBRegZIP2_1000wbp_rebinned
 type bigWig
-color 139,69,19
+color 205,92,92
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -73,7 +73,7 @@ bigDataUrl MutationRateModels_Oct25_2018/1000g_delAreas_10000wbp.bigWig
 shortLabel MutationRateModels_Oct25_2018-1000g_delAreas_10000wbp
 longLabel MutationRateModels_Oct25_2018-1000g_delAreas_10000wbp
 type bigWig
-color 128,0,128
+color 0,0,0
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -87,7 +87,7 @@ bigDataUrl MutationRateModels_Oct25_2018/S2.bigWig
 shortLabel MutationRateModels_Oct25_2018-S2
 longLabel MutationRateModels_Oct25_2018-S2
 type bigWig
-color 255,0,255
+color 0,255,0
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -101,7 +101,7 @@ bigDataUrl MutationRateModels_Oct25_2018/1000g_delAreas_1000wbp.bigWig
 shortLabel MutationRateModels_Oct25_2018-1000g_delAreas_1000wbp
 longLabel MutationRateModels_Oct25_2018-1000g_delAreas_1000wbp
 type bigWig
-color 139,69,19
+color 128,128,0
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -129,7 +129,7 @@ bigDataUrl MutationRateModels_Oct25_2018/OurReg_1000GDelSims_KBRegLinear_1000wbp
 shortLabel MutationRateModels_Oct25_2018-OurReg_1000GDelSims_KBRegLinear_1000wbp_rebinned
 longLabel MutationRateModels_Oct25_2018-OurReg_1000GDelSims_KBRegLinear_1000wbp_rebinned
 type bigWig
-color 0,0,0
+color 0,0,255
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -143,7 +143,7 @@ bigDataUrl MutationRateModels_Oct25_2018/S4.bigWig
 shortLabel MutationRateModels_Oct25_2018-S4
 longLabel MutationRateModels_Oct25_2018-S4
 type bigWig
-color 255,0,255
+color 128,0,0
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -157,35 +157,7 @@ bigDataUrl MutationRateModels_Oct25_2018/1000g_delAreas_100000wbp.bigWig
 shortLabel MutationRateModels_Oct25_2018-1000g_delAreas_100000wbp
 longLabel MutationRateModels_Oct25_2018-1000g_delAreas_100000wbp
 type bigWig
-color 255,140,0
-visibility full
-autoScale on
-graphTypeDefault bar
-windowingFunction mean
-smoothingWindow 12
-spectrum on
-
-
-track SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP3_1000000wbp_rebinned
-bigDataUrl SimDensityAreas_Nov13_2018/OurReg_1000GDelSims_KBRegZIP3_1000000wbp_rebinned.bigWig
-shortLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP3_1000000wbp_rebinned
-longLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP3_1000000wbp_rebinned
-type bigWig
 color 128,128,128
-visibility full
-autoScale on
-graphTypeDefault bar
-windowingFunction mean
-smoothingWindow 12
-spectrum on
-
-
-track SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegPoisson_10000wbp_rebinned
-bigDataUrl SimDensityAreas_Nov13_2018/OurReg_1000GDelSims_KBRegPoisson_10000wbp_rebinned.bigWig
-shortLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegPoisson_10000wbp_rebinned
-longLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegPoisson_10000wbp_rebinned
-type bigWig
-color 128,128,0
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -199,133 +171,7 @@ bigDataUrl SimDensityAreas_Nov13_2018/OurReg_1000GDelSims_KBRegPoisson_1000wbp_r
 shortLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegPoisson_1000wbp_rebinned
 longLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegPoisson_1000wbp_rebinned
 type bigWig
-color 192,192,192
-visibility full
-autoScale on
-graphTypeDefault bar
-windowingFunction mean
-smoothingWindow 12
-spectrum on
-
-
-track SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP_100000wbp_rebinned
-bigDataUrl SimDensityAreas_Nov13_2018/OurReg_1000GDelSims_KBRegZIP_100000wbp_rebinned.bigWig
-shortLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP_100000wbp_rebinned
-longLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP_100000wbp_rebinned
-type bigWig
-color 0,255,255
-visibility full
-autoScale on
-graphTypeDefault bar
-windowingFunction mean
-smoothingWindow 12
-spectrum on
-
-
-track SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP2_1000wbp_rebinned
-bigDataUrl SimDensityAreas_Nov13_2018/OurReg_1000GDelSims_KBRegZIP2_1000wbp_rebinned.bigWig
-shortLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP2_1000wbp_rebinned
-longLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP2_1000wbp_rebinned
-type bigWig
-color 0,0,255
-visibility full
-autoScale on
-graphTypeDefault bar
-windowingFunction mean
-smoothingWindow 12
-spectrum on
-
-
-track SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegLinear_1000000wbp_rebinned
-bigDataUrl SimDensityAreas_Nov13_2018/OurReg_1000GDelSims_KBRegLinear_1000000wbp_rebinned.bigWig
-shortLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegLinear_1000000wbp_rebinned
-longLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegLinear_1000000wbp_rebinned
-type bigWig
 color 255,0,0
-visibility full
-autoScale on
-graphTypeDefault bar
-windowingFunction mean
-smoothingWindow 12
-spectrum on
-
-
-track SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP3_100000wbp_rebinned
-bigDataUrl SimDensityAreas_Nov13_2018/OurReg_1000GDelSims_KBRegZIP3_100000wbp_rebinned.bigWig
-shortLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP3_100000wbp_rebinned
-longLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP3_100000wbp_rebinned
-type bigWig
-color 0,128,128
-visibility full
-autoScale on
-graphTypeDefault bar
-windowingFunction mean
-smoothingWindow 12
-spectrum on
-
-
-track SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP_10000wbp_rebinned
-bigDataUrl SimDensityAreas_Nov13_2018/OurReg_1000GDelSims_KBRegZIP_10000wbp_rebinned.bigWig
-shortLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP_10000wbp_rebinned
-longLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP_10000wbp_rebinned
-type bigWig
-color 0,255,255
-visibility full
-autoScale on
-graphTypeDefault bar
-windowingFunction mean
-smoothingWindow 12
-spectrum on
-
-
-track SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegLinear_100000wbp_rebinned
-bigDataUrl SimDensityAreas_Nov13_2018/OurReg_1000GDelSims_KBRegLinear_100000wbp_rebinned.bigWig
-shortLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegLinear_100000wbp_rebinned
-longLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegLinear_100000wbp_rebinned
-type bigWig
-color 128,0,128
-visibility full
-autoScale on
-graphTypeDefault bar
-windowingFunction mean
-smoothingWindow 12
-spectrum on
-
-
-track SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP3_10000wbp_rebinned
-bigDataUrl SimDensityAreas_Nov13_2018/OurReg_1000GDelSims_KBRegZIP3_10000wbp_rebinned.bigWig
-shortLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP3_10000wbp_rebinned
-longLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP3_10000wbp_rebinned
-type bigWig
-color 192,192,192
-visibility full
-autoScale on
-graphTypeDefault bar
-windowingFunction mean
-smoothingWindow 12
-spectrum on
-
-
-track SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP3_1000wbp_rebinned
-bigDataUrl SimDensityAreas_Nov13_2018/OurReg_1000GDelSims_KBRegZIP3_1000wbp_rebinned.bigWig
-shortLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP3_1000wbp_rebinned
-longLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP3_1000wbp_rebinned
-type bigWig
-color 255,228,225
-visibility full
-autoScale on
-graphTypeDefault bar
-windowingFunction mean
-smoothingWindow 12
-spectrum on
-
-
-track SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP2_10000wbp_rebinned
-bigDataUrl SimDensityAreas_Nov13_2018/OurReg_1000GDelSims_KBRegZIP2_10000wbp_rebinned.bigWig
-shortLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP2_10000wbp_rebinned
-longLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP2_10000wbp_rebinned
-type bigWig
-color 255,228,225
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -348,96 +194,12 @@ smoothingWindow 12
 spectrum on
 
 
-track SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP2_100000wbp_rebinned
-bigDataUrl SimDensityAreas_Nov13_2018/OurReg_1000GDelSims_KBRegZIP2_100000wbp_rebinned.bigWig
-shortLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP2_100000wbp_rebinned
-longLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP2_100000wbp_rebinned
-type bigWig
-color 192,192,192
-visibility full
-autoScale on
-graphTypeDefault bar
-windowingFunction mean
-smoothingWindow 12
-spectrum on
-
-
-track SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegPoisson_1000000wbp_rebinned
-bigDataUrl SimDensityAreas_Nov13_2018/OurReg_1000GDelSims_KBRegPoisson_1000000wbp_rebinned.bigWig
-shortLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegPoisson_1000000wbp_rebinned
-longLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegPoisson_1000000wbp_rebinned
-type bigWig
-color 128,0,0
-visibility full
-autoScale on
-graphTypeDefault bar
-windowingFunction mean
-smoothingWindow 12
-spectrum on
-
-
-track SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegLinear_10000wbp_rebinned
-bigDataUrl SimDensityAreas_Nov13_2018/OurReg_1000GDelSims_KBRegLinear_10000wbp_rebinned.bigWig
-shortLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegLinear_10000wbp_rebinned
-longLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegLinear_10000wbp_rebinned
-type bigWig
-color 189,183,107
-visibility full
-autoScale on
-graphTypeDefault bar
-windowingFunction mean
-smoothingWindow 12
-spectrum on
-
-
-track SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegPoisson_100000wbp_rebinned
-bigDataUrl SimDensityAreas_Nov13_2018/OurReg_1000GDelSims_KBRegPoisson_100000wbp_rebinned.bigWig
-shortLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegPoisson_100000wbp_rebinned
-longLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegPoisson_100000wbp_rebinned
-type bigWig
-color 255,140,0
-visibility full
-autoScale on
-graphTypeDefault bar
-windowingFunction mean
-smoothingWindow 12
-spectrum on
-
-
 track SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP_1000wbp_rebinned
 bigDataUrl SimDensityAreas_Nov13_2018/OurReg_1000GDelSims_KBRegZIP_1000wbp_rebinned.bigWig
 shortLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP_1000wbp_rebinned
 longLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP_1000wbp_rebinned
 type bigWig
-color 139,69,19
-visibility full
-autoScale on
-graphTypeDefault bar
-windowingFunction mean
-smoothingWindow 12
-spectrum on
-
-
-track SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP_1000000wbp_rebinned
-bigDataUrl SimDensityAreas_Nov13_2018/OurReg_1000GDelSims_KBRegZIP_1000000wbp_rebinned.bigWig
-shortLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP_1000000wbp_rebinned
-longLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP_1000000wbp_rebinned
-type bigWig
-color 128,128,0
-visibility full
-autoScale on
-graphTypeDefault bar
-windowingFunction mean
-smoothingWindow 12
-spectrum on
-
-
-track SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP2_1000000wbp_rebinned
-bigDataUrl SimDensityAreas_Nov13_2018/OurReg_1000GDelSims_KBRegZIP2_1000000wbp_rebinned.bigWig
-shortLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP2_1000000wbp_rebinned
-longLabel SimDensityAreas_Nov13_2018-OurReg_1000GDelSims_KBRegZIP2_1000000wbp_rebinned
-type bigWig
-color 0,128,128
+color 0,255,0
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -451,7 +213,7 @@ bigDataUrl featureBigWig_Nov9_2018/LTR_1MB.bigWig
 shortLabel featureBigWig_Nov9_2018-LTR_1MB
 longLabel featureBigWig_Nov9_2018-LTR_1MB
 type bigWig
-color 238,130,238
+color 0,0,0
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -465,7 +227,7 @@ bigDataUrl featureBigWig_Nov9_2018/STRs_1MB.bigWig
 shortLabel featureBigWig_Nov9_2018-STRs_1MB
 longLabel featureBigWig_Nov9_2018-STRs_1MB
 type bigWig
-color 218,165,32
+color 244,164,96
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -479,7 +241,7 @@ bigDataUrl featureBigWig_Nov9_2018/LTR_100KB.bigWig
 shortLabel featureBigWig_Nov9_2018-LTR_100KB
 longLabel featureBigWig_Nov9_2018-LTR_100KB
 type bigWig
-color 189,183,107
+color 0,0,0
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -493,7 +255,7 @@ bigDataUrl featureBigWig_Nov9_2018/GC_10KB.bigWig
 shortLabel featureBigWig_Nov9_2018-GC_10KB
 longLabel featureBigWig_Nov9_2018-GC_10KB
 type bigWig
-color 218,165,32
+color 178,34,34
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -507,7 +269,7 @@ bigDataUrl featureBigWig_Nov9_2018/SINE_1MB.bigWig
 shortLabel featureBigWig_Nov9_2018-SINE_1MB
 longLabel featureBigWig_Nov9_2018-SINE_1MB
 type bigWig
-color 192,192,192
+color 128,128,128
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -521,7 +283,7 @@ bigDataUrl featureBigWig_Nov9_2018/segdupAreaExclusive.bigWig
 shortLabel featureBigWig_Nov9_2018-segdupAreaExclusive
 longLabel featureBigWig_Nov9_2018-segdupAreaExclusive
 type bigWig
-color 0,0,255
+color 178,34,34
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -535,7 +297,7 @@ bigDataUrl featureBigWig_Nov9_2018/coverage.bigWig
 shortLabel featureBigWig_Nov9_2018-coverage
 longLabel featureBigWig_Nov9_2018-coverage
 type bigWig
-color 139,69,19
+color 218,165,32
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -549,7 +311,7 @@ bigDataUrl featureBigWig_Nov9_2018/Satellite_100KB.bigWig
 shortLabel featureBigWig_Nov9_2018-Satellite_100KB
 longLabel featureBigWig_Nov9_2018-Satellite_100KB
 type bigWig
-color 0,0,255
+color 128,0,128
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -563,7 +325,7 @@ bigDataUrl featureBigWig_Nov9_2018/segdupAreaExclusive_1MB.bigWig
 shortLabel featureBigWig_Nov9_2018-segdupAreaExclusive_1MB
 longLabel featureBigWig_Nov9_2018-segdupAreaExclusive_1MB
 type bigWig
-color 189,183,107
+color 205,92,92
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -577,7 +339,7 @@ bigDataUrl featureBigWig_Nov9_2018/coverage_100KB.bigWig
 shortLabel featureBigWig_Nov9_2018-coverage_100KB
 longLabel featureBigWig_Nov9_2018-coverage_100KB
 type bigWig
-color 218,165,32
+color 255,228,225
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -591,7 +353,7 @@ bigDataUrl featureBigWig_Nov9_2018/LTR.bigWig
 shortLabel featureBigWig_Nov9_2018-LTR
 longLabel featureBigWig_Nov9_2018-LTR
 type bigWig
-color 128,128,0
+color 128,0,0
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -619,7 +381,7 @@ bigDataUrl featureBigWig_Nov9_2018/LINE_1MB.bigWig
 shortLabel featureBigWig_Nov9_2018-LINE_1MB
 longLabel featureBigWig_Nov9_2018-LINE_1MB
 type bigWig
-color 0,0,255
+color 178,34,34
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -633,7 +395,7 @@ bigDataUrl featureBigWig_Nov9_2018/Satellite_1MB.bigWig
 shortLabel featureBigWig_Nov9_2018-Satellite_1MB
 longLabel featureBigWig_Nov9_2018-Satellite_1MB
 type bigWig
-color 255,0,255
+color 0,0,0
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -647,7 +409,7 @@ bigDataUrl featureBigWig_Nov9_2018/SINE_100KB.bigWig
 shortLabel featureBigWig_Nov9_2018-SINE_100KB
 longLabel featureBigWig_Nov9_2018-SINE_100KB
 type bigWig
-color 255,0,255
+color 128,0,128
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -661,7 +423,7 @@ bigDataUrl featureBigWig_Nov9_2018/GC_100KB.bigWig
 shortLabel featureBigWig_Nov9_2018-GC_100KB
 longLabel featureBigWig_Nov9_2018-GC_100KB
 type bigWig
-color 0,0,0
+color 0,0,255
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -675,7 +437,7 @@ bigDataUrl featureBigWig_Nov9_2018/LowComplexity.bigWig
 shortLabel featureBigWig_Nov9_2018-LowComplexity
 longLabel featureBigWig_Nov9_2018-LowComplexity
 type bigWig
-color 0,0,255
+color 255,0,255
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -689,7 +451,7 @@ bigDataUrl featureBigWig_Nov9_2018/SINE.bigWig
 shortLabel featureBigWig_Nov9_2018-SINE
 longLabel featureBigWig_Nov9_2018-SINE
 type bigWig
-color 0,128,128
+color 128,128,128
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -703,7 +465,7 @@ bigDataUrl featureBigWig_Nov9_2018/Satellite.bigWig
 shortLabel featureBigWig_Nov9_2018-Satellite
 longLabel featureBigWig_Nov9_2018-Satellite
 type bigWig
-color 128,0,128
+color 218,165,32
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -717,7 +479,7 @@ bigDataUrl featureBigWig_Nov9_2018/coverage_10KB.bigWig
 shortLabel featureBigWig_Nov9_2018-coverage_10KB
 longLabel featureBigWig_Nov9_2018-coverage_10KB
 type bigWig
-color 0,255,255
+color 0,255,0
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -731,7 +493,7 @@ bigDataUrl featureBigWig_Nov9_2018/LowComplexity_10KB.bigWig
 shortLabel featureBigWig_Nov9_2018-LowComplexity_10KB
 longLabel featureBigWig_Nov9_2018-LowComplexity_10KB
 type bigWig
-color 238,130,238
+color 128,0,0
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -745,7 +507,7 @@ bigDataUrl featureBigWig_Nov9_2018/LINE_10KB.bigWig
 shortLabel featureBigWig_Nov9_2018-LINE_10KB
 longLabel featureBigWig_Nov9_2018-LINE_10KB
 type bigWig
-color 255,228,225
+color 0,255,0
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -759,7 +521,7 @@ bigDataUrl featureBigWig_Nov9_2018/segdupAreaExclusive_10KB.bigWig
 shortLabel featureBigWig_Nov9_2018-segdupAreaExclusive_10KB
 longLabel featureBigWig_Nov9_2018-segdupAreaExclusive_10KB
 type bigWig
-color 192,192,192
+color 189,183,107
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -773,7 +535,7 @@ bigDataUrl featureBigWig_Nov9_2018/GC.bigWig
 shortLabel featureBigWig_Nov9_2018-GC
 longLabel featureBigWig_Nov9_2018-GC
 type bigWig
-color 128,0,128
+color 255,228,225
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -787,7 +549,7 @@ bigDataUrl featureBigWig_Nov9_2018/STRs.bigWig
 shortLabel featureBigWig_Nov9_2018-STRs
 longLabel featureBigWig_Nov9_2018-STRs
 type bigWig
-color 189,183,107
+color 0,255,0
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -801,7 +563,7 @@ bigDataUrl featureBigWig_Nov9_2018/Satellite_10KB.bigWig
 shortLabel featureBigWig_Nov9_2018-Satellite_10KB
 longLabel featureBigWig_Nov9_2018-Satellite_10KB
 type bigWig
-color 178,34,34
+color 128,0,128
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -815,7 +577,7 @@ bigDataUrl featureBigWig_Nov9_2018/SINE_10KB.bigWig
 shortLabel featureBigWig_Nov9_2018-SINE_10KB
 longLabel featureBigWig_Nov9_2018-SINE_10KB
 type bigWig
-color 218,165,32
+color 139,69,19
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -829,7 +591,7 @@ bigDataUrl featureBigWig_Nov9_2018/coverage_1MB.bigWig
 shortLabel featureBigWig_Nov9_2018-coverage_1MB
 longLabel featureBigWig_Nov9_2018-coverage_1MB
 type bigWig
-color 255,105,180
+color 238,130,238
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -843,7 +605,7 @@ bigDataUrl featureBigWig_Nov9_2018/segdupAreaExclusive_100KB.bigWig
 shortLabel featureBigWig_Nov9_2018-segdupAreaExclusive_100KB
 longLabel featureBigWig_Nov9_2018-segdupAreaExclusive_100KB
 type bigWig
-color 0,128,128
+color 139,69,19
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -857,7 +619,7 @@ bigDataUrl featureBigWig_Nov9_2018/LINE_100KB.bigWig
 shortLabel featureBigWig_Nov9_2018-LINE_100KB
 longLabel featureBigWig_Nov9_2018-LINE_100KB
 type bigWig
-color 255,0,0
+color 189,183,107
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -871,7 +633,7 @@ bigDataUrl featureBigWig_Nov9_2018/STRs_10KB.bigWig
 shortLabel featureBigWig_Nov9_2018-STRs_10KB
 longLabel featureBigWig_Nov9_2018-STRs_10KB
 type bigWig
-color 0,255,0
+color 128,128,128
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -885,7 +647,7 @@ bigDataUrl featureBigWig_Nov9_2018/LTR_10KB.bigWig
 shortLabel featureBigWig_Nov9_2018-LTR_10KB
 longLabel featureBigWig_Nov9_2018-LTR_10KB
 type bigWig
-color 255,0,0
+color 189,183,107
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -899,7 +661,7 @@ bigDataUrl featureBigWig_Nov9_2018/STRs_100KB.bigWig
 shortLabel featureBigWig_Nov9_2018-STRs_100KB
 longLabel featureBigWig_Nov9_2018-STRs_100KB
 type bigWig
-color 128,0,128
+color 128,128,128
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -913,7 +675,7 @@ bigDataUrl featureBigWig_Nov9_2018/GC_1MB.bigWig
 shortLabel featureBigWig_Nov9_2018-GC_1MB
 longLabel featureBigWig_Nov9_2018-GC_1MB
 type bigWig
-color 255,105,180
+color 192,192,192
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -927,7 +689,7 @@ bigDataUrl featureBigWig_Nov9_2018/LINE.bigWig
 shortLabel featureBigWig_Nov9_2018-LINE
 longLabel featureBigWig_Nov9_2018-LINE
 type bigWig
-color 139,69,19
+color 0,0,128
 visibility full
 autoScale on
 graphTypeDefault bar
@@ -941,7 +703,7 @@ bigDataUrl featureBigWig_Nov9_2018/LowComplexity_1MB.bigWig
 shortLabel featureBigWig_Nov9_2018-LowComplexity_1MB
 longLabel featureBigWig_Nov9_2018-LowComplexity_1MB
 type bigWig
-color 128,0,0
+color 128,128,0
 visibility full
 autoScale on
 graphTypeDefault bar
